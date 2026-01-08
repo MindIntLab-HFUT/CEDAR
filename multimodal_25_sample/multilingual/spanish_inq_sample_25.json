@@ -1,0 +1,177 @@
+[
+    {
+        "id": 6,
+        "narrative": "La persona que lleva cajas es nueva en el lugar de trabajo.",
+        "question": "¿Cómo se siente la persona apoyada contra la pared cerca de la puerta mientras observa en ese momento?",
+        "answer": "diversión",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "¿Cómo te sientes respecto a este evento?",
+        "answer": "asco",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 20,
+        "narrative": "Llegaste antes de la hora prevista, esperando causar una buena impresión en la reunión de tu amigo.",
+        "question": "¿Cómo te sientes justo antes de que te saluden?",
+        "answer": "felicidad",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 34,
+        "narrative": "Acaban de llegar después de viajar juntos y necesitan refrescarse antes de continuar con sus planes.",
+        "question": "¿Cómo se siente la mujer con la mochila en la espalda mientras se prepara para lavarse las manos?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 41,
+        "narrative": "Tenías prisa porque llegabas tarde a una cita importante. Nadie presenció lo que ocurrió.",
+        "question": "¿Cómo te sientes inmediatamente después del evento?",
+        "answer": "miedo",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 74,
+        "narrative": "Este momento marca el inicio de una tradición familiar que se celebra en reuniones especiales.",
+        "question": "¿Cómo se sienten los familiares más jóvenes que están de pie a la izquierda durante esta tradición?",
+        "answer": "asombro",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 88,
+        "narrative": "Llegaste al juzgado después de ser seleccionado mediante un proceso legal y te informaron sobre tus responsabilidades antes de entrar.",
+        "question": "¿Cómo se siente durante esta etapa del proceso?",
+        "answer": "miedo",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 104,
+        "narrative": "El paciente fue ingresado tras experimentar dificultad repentina para respirar.",
+        "question": "¿Cómo se siente el paciente en la cama del hospital en este momento?",
+        "answer": "dolor",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "¿Cómo se siente la persona a la que le están perforando la oreja durante este evento?",
+        "answer": "dolor",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "¿Cómo se siente la persona más cercana a la puerta del ascensor inmediatamente después de su acción cortés?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 130,
+        "narrative": "Llegaste de un vuelo internacional y previamente elegiste traer comida y madera contigo, sabiendo que estos artículos requieren ser declarados al ingresar.",
+        "question": "¿Cómo te sientes al estar de pie en el mostrador de inspección con tus pertenencias?",
+        "answer": "alivio",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 147,
+        "narrative": "La anciana iba de camino a visitar a una amiga que vivía cerca.",
+        "question": "¿Cómo se siente la mujer que está de pie en el centro de la calle después de este momento?",
+        "answer": "sorpresa",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 157,
+        "narrative": "Antes, esperabas encontrar un asiento cómodo para relajarte.",
+        "question": "¿Cómo se siente usted, la mujer a la izquierda cerca del pasillo, después de este momento?",
+        "answer": "alivio",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 181,
+        "narrative": "Habías planeado comer en este restaurante y dependías de asistencia debido a movilidad limitada.",
+        "question": "¿Cómo te sientes en este momento?",
+        "answer": "vergüenza",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 182,
+        "narrative": "La persona sentada en el escritorio es una maestra que tiene la responsabilidad de abordar las preocupaciones recientes sobre el comportamiento de un estudiante y de prepararse para una conversación debido a la política escolar.",
+        "question": "¿Cómo se siente el profesor en el escritorio antes de reunirse con el estudiante para hablar sobre su comportamiento?",
+        "answer": "compasión",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 202,
+        "narrative": "Tenías la intención de llamar su atención de una manera personal.",
+        "question": "¿Cómo se siente la cajera en el momento en que le tocaste el brazo?",
+        "answer": "vergüenza",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 251,
+        "narrative": "Este momento sigue a un período de reflexión y planificación con familiares cercanos.",
+        "question": "¿Cómo te sientes en estos momentos?",
+        "answer": "tristeza",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 295,
+        "narrative": "Anteriormente, todos fueron informados sobre los requisitos del código de vestimenta de la piscina.",
+        "question": "¿Cómo se siente la persona en primer plano justo antes de entrar a la piscina?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 305,
+        "narrative": "Estas chicas decidieron recientemente probar el vapeo juntas después de escucharlo en internet.",
+        "question": "¿Cómo se siente la chica que está en el centro?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 309,
+        "narrative": "Recientemente te mudaste a una nueva ciudad y poco a poco estás conociendo gente a través de conocidos en común.",
+        "question": "¿Cómo te sientes después de este saludo inicial?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "¿Cómo se siente la mujer más joven en el sofá durante este momento con su madre?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 358,
+        "narrative": "Tú y tus compañeros de clase tienen una relación amistosa. Hace poco, tu amigo hizo un comentario positivo sobre tu nuevo corte de pelo.",
+        "question": "¿Cómo te sientes en este momento?",
+        "answer": "diversión",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 362,
+        "narrative": "Antes, preparaste tu maleta para un viaje próximo.",
+        "question": "¿Cómo te sientes en este momento?",
+        "answer": "felicidad",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 377,
+        "narrative": "Te sentiste mal justo antes de tu próxima clase y supiste que necesitabas ayuda rápidamente.",
+        "question": "¿Cómo te sientes en ese momento en el pasillo mientras te diriges al baño?",
+        "answer": "dolor",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "¿Cómo se siente la persona que está de pie cerca de los faroles en este momento?",
+        "answer": "contentamiento",
+        "english_ver_answer": "contentment"
+    }
+]

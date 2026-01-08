@@ -1,0 +1,352 @@
+[
+    {
+        "id": 6,
+        "narrative": "The person carrying boxes is new to the workplace.",
+        "question": "How does the individual leaning against the wall near the door feel while watching at that moment?",
+        "answers": {
+            "arabic": "amusement",
+            "chinese": "amusement",
+            "english": "amusement",
+            "hindi": "amusement",
+            "japanese": "sympathy",
+            "spanish": "amusement",
+            "swahili": "sympathy"
+        }
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "How do you feel for this event?",
+        "answers": {
+            "arabic": "contentment",
+            "chinese": "disgust",
+            "english": "contentment",
+            "hindi": "disgust",
+            "japanese": "embarrassment",
+            "spanish": "disgust",
+            "swahili": "embarrassment"
+        }
+    },
+    {
+        "id": 20,
+        "narrative": "You arrived earlier than the scheduled time, hoping to make a good impression at your friend's gathering.",
+        "question": "How do you feel just before being greeted?",
+        "answers": {
+            "arabic": "relief",
+            "chinese": "embarrassment",
+            "english": "embarrassment",
+            "hindi": "happiness",
+            "japanese": "embarrassment",
+            "spanish": "happiness",
+            "swahili": "happiness"
+        }
+    },
+    {
+        "id": 34,
+        "narrative": "They have just arrived after traveling together, needing to freshen up before continuing their plans.",
+        "question": "How does the woman with the backpack at the sink feel while she prepares to wash her hands?",
+        "answers": {
+            "arabic": "relief",
+            "chinese": "contentment",
+            "english": "relief",
+            "hindi": "contentment",
+            "japanese": "relief",
+            "spanish": "contentment",
+            "swahili": "relief"
+        }
+    },
+    {
+        "id": 41,
+        "narrative": "You were in a rush due to being late for an important appointment. No one witnessed what happened.",
+        "question": "How do you feel immediately after the event?",
+        "answers": {
+            "arabic": "fear",
+            "chinese": "fear",
+            "english": "embarrassment",
+            "hindi": "fear",
+            "japanese": "fear",
+            "spanish": "fear",
+            "swahili": "fear"
+        }
+    },
+    {
+        "id": 74,
+        "narrative": "This moment marks the beginning of a family tradition observed at special gatherings.",
+        "question": "How do the younger relatives standing on the left feel during this tradition?",
+        "answers": {
+            "arabic": "awe",
+            "chinese": "awe",
+            "english": "embarrassment",
+            "hindi": "contentment",
+            "japanese": "embarrassment",
+            "spanish": "awe",
+            "swahili": "awe"
+        }
+    },
+    {
+        "id": 88,
+        "narrative": "You arrived at the courthouse after being selected through a legal process and were informed about your responsibilities prior to entering.",
+        "question": "How do you feel during this stage of the proceedings?",
+        "answers": {
+            "arabic": "awe",
+            "chinese": "awe",
+            "english": "awe",
+            "hindi": "awe",
+            "japanese": "awe",
+            "spanish": "fear",
+            "swahili": "awe"
+        }
+    },
+    {
+        "id": 104,
+        "narrative": "The patient was admitted after experiencing sudden difficulty breathing.",
+        "question": "How does the patient in the hospital bed feel during the moment?",
+        "answers": {
+            "arabic": "pain",
+            "chinese": "fear",
+            "english": "pain",
+            "hindi": "pain",
+            "japanese": "pain",
+            "spanish": "pain",
+            "swahili": "pain"
+        }
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "How does the person whose ear is being pierced feel during this event?",
+        "answers": {
+            "arabic": "pain",
+            "chinese": "pain",
+            "english": "fear",
+            "hindi": "pain",
+            "japanese": "pain",
+            "spanish": "pain",
+            "swahili": "pain"
+        }
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "How does the person nearest to the elevator doorway feel immediately after their courteous action?",
+        "answers": {
+            "arabic": "contentment",
+            "chinese": "embarrassment",
+            "english": "contentment",
+            "hindi": "contentment",
+            "japanese": "embarrassment",
+            "spanish": "contentment",
+            "swahili": "relief"
+        }
+    },
+    {
+        "id": 130,
+        "narrative": "You arrived from an international flight and previously chose to bring food and wood with you, knowing these items require declaration upon entry.",
+        "question": "How do you feel while standing at the inspection counter with your belongings?",
+        "answers": {
+            "arabic": "relief",
+            "chinese": "embarrassment",
+            "english": "relief",
+            "hindi": "embarrassment",
+            "japanese": "relief",
+            "spanish": "relief",
+            "swahili": "relief"
+        }
+    },
+    {
+        "id": 147,
+        "narrative": "The elderly woman was on her way to visit a nearby friend.",
+        "question": "How does the woman standing in the center of the street feel after this moment?",
+        "answers": {
+            "arabic": "embarrassment",
+            "chinese": "embarrassment",
+            "english": "embarrassment",
+            "hindi": "embarrassment",
+            "japanese": "embarrassment",
+            "spanish": "surprise",
+            "swahili": "surprise"
+        }
+    },
+    {
+        "id": 157,
+        "narrative": "Earlier, you hoped for a comfortable seat to unwind.",
+        "question": "How do you, the woman on the left near the aisle, feel after this moment?",
+        "answers": {
+            "arabic": "contentment",
+            "chinese": "contentment",
+            "english": "relief",
+            "hindi": "relief",
+            "japanese": "contentment",
+            "spanish": "relief",
+            "swahili": "relief"
+        }
+    },
+    {
+        "id": 181,
+        "narrative": "You had planned to eat at this restaurant and rely on assistance due to limited mobility.",
+        "question": "How do you feel during this moment?",
+        "answers": {
+            "arabic": "embarrassment",
+            "chinese": "embarrassment",
+            "english": "embarrassment",
+            "hindi": "relief",
+            "japanese": "relief",
+            "spanish": "embarrassment",
+            "swahili": "contentment"
+        }
+    },
+    {
+        "id": 182,
+        "narrative": "The individual seated at the desk is a teacher who is responsible for addressing recent concerns about a student's conduct and preparing for a conversation due to school policy.",
+        "question": "How does the teacher at the desk feel before meeting the student to discuss their behavior?",
+        "answers": {
+            "arabic": "fear",
+            "chinese": "sympathy",
+            "english": "sympathy",
+            "hindi": "sympathy",
+            "japanese": "fear",
+            "spanish": "sympathy",
+            "swahili": "sympathy"
+        }
+    },
+    {
+        "id": 202,
+        "narrative": "You intended to get her attention in a personal way.",
+        "question": "How does the clerk at the checkout counter feel during the moment you touched her arm?",
+        "answers": {
+            "arabic": "happiness",
+            "chinese": "embarrassment",
+            "english": "embarrassment",
+            "hindi": "embarrassment",
+            "japanese": "embarrassment",
+            "spanish": "embarrassment",
+            "swahili": "embarrassment"
+        }
+    },
+    {
+        "id": 251,
+        "narrative": "This moment follows a period of reflection and planning with close relatives.",
+        "question": "How do you feel in the moments?",
+        "answers": {
+            "arabic": "sadness",
+            "chinese": "sadness",
+            "english": "sadness",
+            "hindi": "contentment",
+            "japanese": "sadness",
+            "spanish": "sadness",
+            "swahili": "sadness"
+        }
+    },
+    {
+        "id": 295,
+        "narrative": "Earlier, everyone was informed of the pool’s dress code requirements.",
+        "question": "How does the person in the foreground feel right before entering the pool?",
+        "answers": {
+            "arabic": "contentment",
+            "chinese": "embarrassment",
+            "english": "contentment",
+            "hindi": "contentment",
+            "japanese": "contentment",
+            "spanish": "contentment",
+            "swahili": "contentment"
+        }
+    },
+    {
+        "id": 305,
+        "narrative": "These girls recently decided to try vaping together after hearing about it online.",
+        "question": "How does the girl in the center feel?",
+        "answers": {
+            "arabic": "happiness",
+            "chinese": "contentment",
+            "english": "contentment",
+            "hindi": "amusement",
+            "japanese": "contentment",
+            "spanish": "contentment",
+            "swahili": "happiness"
+        }
+    },
+    {
+        "id": 309,
+        "narrative": "You recently moved to a new city and are gradually meeting people through mutual connections.",
+        "question": "How do you feel after this initial greeting?",
+        "answers": {
+            "arabic": "happiness",
+            "chinese": "embarrassment",
+            "english": "happiness",
+            "hindi": "happiness",
+            "japanese": "embarrassment",
+            "spanish": "contentment",
+            "swahili": "happiness"
+        }
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "How does the younger woman on the sofa feel during this moment with her mother?",
+        "answers": {
+            "arabic": "embarrassment",
+            "chinese": "contentment",
+            "english": "contentment",
+            "hindi": "embarrassment",
+            "japanese": "contentment",
+            "spanish": "contentment",
+            "swahili": "contentment"
+        }
+    },
+    {
+        "id": 358,
+        "narrative": "You and your classmates have a friendly relationship. Earlier, your friend commented positively on your recent haircut.",
+        "question": "How do you feel as this moment occurs?",
+        "answers": {
+            "arabic": "happiness",
+            "chinese": "amusement",
+            "english": "happiness",
+            "hindi": "amusement",
+            "japanese": "amusement",
+            "spanish": "amusement",
+            "swahili": "amusement"
+        }
+    },
+    {
+        "id": 362,
+        "narrative": "Earlier, you packed your suitcase for an upcoming trip.",
+        "question": "How do you feel during this moment?",
+        "answers": {
+            "arabic": "contentment",
+            "chinese": "pain",
+            "english": "pain",
+            "hindi": "pain",
+            "japanese": "pain",
+            "spanish": "happiness",
+            "swahili": "pain"
+        }
+    },
+    {
+        "id": 377,
+        "narrative": "You felt unwell just before your next class and knew you needed help quickly.",
+        "question": "How do you feel at that moment in the hallway while heading toward the restroom?",
+        "answers": {
+            "arabic": "pain",
+            "chinese": "embarrassment",
+            "english": "pain",
+            "hindi": "pain",
+            "japanese": "embarrassment",
+            "spanish": "pain",
+            "swahili": "pain"
+        }
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "How does the person standing near the lanterns feel during this moment?",
+        "answers": {
+            "arabic": "contentment",
+            "chinese": "sadness",
+            "english": "contentment",
+            "hindi": "contentment",
+            "japanese": "sadness",
+            "spanish": "contentment",
+            "swahili": "contentment"
+        }
+    }
+]

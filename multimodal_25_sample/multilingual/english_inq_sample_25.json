@@ -1,0 +1,177 @@
+[
+    {
+        "id": 6,
+        "narrative": "The person carrying boxes is new to the workplace.",
+        "question": "How does the individual leaning against the wall near the door feel while watching at that moment?",
+        "answer": "amusement",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "How do you feel for this event?",
+        "answer": "contentment",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 20,
+        "narrative": "You arrived earlier than the scheduled time, hoping to make a good impression at your friend's gathering.",
+        "question": "How do you feel just before being greeted?",
+        "answer": "embarrassment",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 34,
+        "narrative": "They have just arrived after traveling together, needing to freshen up before continuing their plans.",
+        "question": "How does the woman with the backpack at the sink feel while she prepares to wash her hands?",
+        "answer": "relief",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 41,
+        "narrative": "You were in a rush due to being late for an important appointment. No one witnessed what happened.",
+        "question": "How do you feel immediately after the event?",
+        "answer": "embarrassment",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 74,
+        "narrative": "This moment marks the beginning of a family tradition observed at special gatherings.",
+        "question": "How do the younger relatives standing on the left feel during this tradition?",
+        "answer": "embarrassment",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 88,
+        "narrative": "You arrived at the courthouse after being selected through a legal process and were informed about your responsibilities prior to entering.",
+        "question": "How do you feel during this stage of the proceedings?",
+        "answer": "awe",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 104,
+        "narrative": "The patient was admitted after experiencing sudden difficulty breathing.",
+        "question": "How does the patient in the hospital bed feel during the moment?",
+        "answer": "pain",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "How does the person whose ear is being pierced feel during this event?",
+        "answer": "fear",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "How does the person nearest to the elevator doorway feel immediately after their courteous action?",
+        "answer": "contentment",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 130,
+        "narrative": "You arrived from an international flight and previously chose to bring food and wood with you, knowing these items require declaration upon entry.",
+        "question": "How do you feel while standing at the inspection counter with your belongings?",
+        "answer": "relief",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 147,
+        "narrative": "The elderly woman was on her way to visit a nearby friend.",
+        "question": "How does the woman standing in the center of the street feel after this moment?",
+        "answer": "embarrassment",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 157,
+        "narrative": "Earlier, you hoped for a comfortable seat to unwind.",
+        "question": "How do you, the woman on the left near the aisle, feel after this moment?",
+        "answer": "relief",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 181,
+        "narrative": "You had planned to eat at this restaurant and rely on assistance due to limited mobility.",
+        "question": "How do you feel during this moment?",
+        "answer": "embarrassment",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 182,
+        "narrative": "The individual seated at the desk is a teacher who is responsible for addressing recent concerns about a student's conduct and preparing for a conversation due to school policy.",
+        "question": "How does the teacher at the desk feel before meeting the student to discuss their behavior?",
+        "answer": "sympathy",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 202,
+        "narrative": "You intended to get her attention in a personal way.",
+        "question": "How does the clerk at the checkout counter feel during the moment you touched her arm?",
+        "answer": "embarrassment",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 251,
+        "narrative": "This moment follows a period of reflection and planning with close relatives.",
+        "question": "How do you feel in the moments?",
+        "answer": "sadness",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 295,
+        "narrative": "Earlier, everyone was informed of the pool’s dress code requirements.",
+        "question": "How does the person in the foreground feel right before entering the pool?",
+        "answer": "contentment",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 305,
+        "narrative": "These girls recently decided to try vaping together after hearing about it online.",
+        "question": "How does the girl in the center feel?",
+        "answer": "contentment",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 309,
+        "narrative": "You recently moved to a new city and are gradually meeting people through mutual connections.",
+        "question": "How do you feel after this initial greeting?",
+        "answer": "happiness",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "How does the younger woman on the sofa feel during this moment with her mother?",
+        "answer": "contentment",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 358,
+        "narrative": "You and your classmates have a friendly relationship. Earlier, your friend commented positively on your recent haircut.",
+        "question": "How do you feel as this moment occurs?",
+        "answer": "happiness",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 362,
+        "narrative": "Earlier, you packed your suitcase for an upcoming trip.",
+        "question": "How do you feel during this moment?",
+        "answer": "pain",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 377,
+        "narrative": "You felt unwell just before your next class and knew you needed help quickly.",
+        "question": "How do you feel at that moment in the hallway while heading toward the restroom?",
+        "answer": "pain",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "How does the person standing near the lanterns feel during this moment?",
+        "answer": "contentment",
+        "english_ver_answer": "contentment"
+    }
+]

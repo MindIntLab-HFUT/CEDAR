@@ -1,0 +1,177 @@
+[
+    {
+        "id": 6,
+        "narrative": "那个搬箱子的人是新来的。",
+        "question": "那位靠在门旁墙上的人当时看着时，心里是什么感受？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "你对这次活动有什么感受？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 20,
+        "narrative": "你比预定时间提前到了，希望在朋友的聚会上留下好印象。",
+        "question": "在被打招呼之前，你有什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 34,
+        "narrative": "他们刚一起抵达，需要稍作整理后再继续他们的行程。",
+        "question": "背着背包、站在水槽前准备洗手的那位女士，此刻心情如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 41,
+        "narrative": "你因为赶着去参加一个重要的约会而很匆忙。没有人目睹发生了什么。",
+        "question": "活动结束后你感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 74,
+        "narrative": "这一刻标志着一个家庭传统的开始，这个传统会在特殊的聚会中被遵循。",
+        "question": "站在左边的年轻亲戚在这个传统仪式中感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 88,
+        "narrative": "你在经过法律程序选中后抵达了法院，并在进入之前被告知了你的职责。",
+        "question": "在这个阶段，你的感受如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 104,
+        "narrative": "患者因突发呼吸困难而入院。",
+        "question": "此刻，病床上的病人感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "被穿耳的人在这个过程中感觉如何？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "离电梯门口最近的那个人在礼貌让行之后，心里有什么感受？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 130,
+        "narrative": "你乘坐国际航班抵达，并且事先选择携带食物和木制品入境，明知这些物品需要申报。",
+        "question": "当你带着自己的物品站在安检柜台前时，你有什么感受？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 147,
+        "narrative": "那位年长的女士正在去附近朋友家拜访的路上。",
+        "question": "站在街道中央的那位女性在这一刻之后感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 157,
+        "narrative": "之前，你希望有一个舒适的座位来放松一下。",
+        "question": "靠近过道的左边那位女士，这一刻你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 181,
+        "narrative": "你原本打算在这家餐厅用餐，并且因为行动不便需要协助。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 182,
+        "narrative": "坐在办公桌前的那位是老师，他负责处理最近关于一名学生行为的担忧，并根据学校政策为即将进行的谈话做准备。",
+        "question": "在与学生讨论其行为之前，坐在办公桌前的老师心情如何？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 202,
+        "narrative": "你本来是想以一种个人化的方式引起她的注意。",
+        "question": "当你碰到收银员的手臂时，她是什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 251,
+        "narrative": "这一时刻是在与亲近的家人一起反思和规划之后到来的。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 295,
+        "narrative": "之前，大家已经被告知了泳池的着装要求。",
+        "question": "前景中的那个人在下水前感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 305,
+        "narrative": "这些女孩最近在网上听说了电子烟后，决定一起尝试一下。",
+        "question": "中间的女孩感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 309,
+        "narrative": "你最近搬到了一个新城市，正在通过共同的朋友慢慢认识新的人。",
+        "question": "在这次初次问候之后，你感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "沙发上的年轻女性在和母亲共处的这一刻感受如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 358,
+        "narrative": "你和你的同学关系很好。之前，你的朋友还夸奖了你最近剪的发型。",
+        "question": "在这一刻你有什么感受？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 362,
+        "narrative": "你之前已经为即将到来的旅行收拾好了行李箱。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 377,
+        "narrative": "你在下一节课前突然感到不适，知道自己需要尽快寻求帮助。",
+        "question": "你在走廊上朝洗手间走去的那一刻，心里是什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "站在灯笼旁的那个人此刻心情如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    }
+]

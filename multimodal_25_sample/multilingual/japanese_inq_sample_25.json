@@ -1,0 +1,177 @@
+[
+    {
+        "id": 6,
+        "narrative": "箱を運んでいる人は、この職場に新しく来た人です。",
+        "question": "そのとき、ドアの近くの壁にもたれかかっているその人は、どんな気持ちで見つめているのだろうか。",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "このイベントについてどう感じていますか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 20,
+        "narrative": "友人の集まりで良い印象を与えようと、予定の時間より早く到着しました。",
+        "question": "挨拶される直前はどんな気持ちですか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 34,
+        "narrative": "彼らは一緒に旅をしてきたばかりで、これからの予定を続ける前に少し身支度を整える必要がある。",
+        "question": "リュックを背負った女性は、手を洗おうと準備しているとき、どのような気持ちでいるのでしょうか。",
+        "answer": "安堵",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 41,
+        "narrative": "あなたは大事な予定に遅れそうで急いでいました。誰もその出来事を目撃していませんでした。",
+        "question": "イベントの直後、どのように感じましたか？",
+        "answer": "恐怖",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 74,
+        "narrative": "この瞬間が、特別な集まりで守られる家族の伝統の始まりです。",
+        "question": "この伝統の間、左側に立っている年下の親族たちはどのように感じていますか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 88,
+        "narrative": "あなたは法的な手続きを経て選ばれ、裁判所に到着する前に自分の責任について説明を受けました。",
+        "question": "この段階でのお気持ちはいかがですか？",
+        "answer": "畏敬",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 104,
+        "narrative": "患者は突然の呼吸困難を訴えて入院しました。",
+        "question": "その瞬間、病院のベッドにいる患者はどのように感じているのでしょうか。",
+        "answer": "苦痛",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "耳にピアスを開けられている人は、この時どのように感じるのでしょうか？",
+        "answer": "苦痛",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "エレベーターの出入口に最も近い人は、丁寧な行動を取った直後、どのような気持ちになりますか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 130,
+        "narrative": "あなたは国際線で到着し、入国時に申告が必要な食品や木材を持ち込むことを事前に選択していました。",
+        "question": "持ち物を持って検査カウンターに立っているとき、どんな気持ちになりますか？",
+        "answer": "安堵",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 147,
+        "narrative": "高齢の女性は近くの友人を訪ねる途中でした。",
+        "question": "この瞬間の後、通りの中央に立っている女性はどのように感じているのでしょうか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 157,
+        "narrative": "先ほど、くつろげる快適な席を望んでいましたね。",
+        "question": "通路の近くにいる左側の女性のあなたは、この瞬間を経てどんな気持ちですか？",
+        "answer": "満足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 181,
+        "narrative": "あなたはこのレストランで食事をする予定で、移動が制限されているため支援を頼りにしていました。",
+        "question": "この瞬間、どんな気持ちですか？",
+        "answer": "安堵",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 182,
+        "narrative": "机に座っているのは教師であり、生徒の最近の行動に関する懸念に対応し、校則に従って面談の準備をしています。",
+        "question": "机に座っている先生は、生徒の行動について話し合う前にどんな気持ちでいるのでしょうか？",
+        "answer": "恐怖",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 202,
+        "narrative": "あなたは彼女の注意を個人的な方法で引こうとした。",
+        "question": "あなたがレジ係の腕に触れたとき、その店員はどんな気持ちだったのでしょうか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 251,
+        "narrative": "この瞬間は、親しい親族と共に振り返りや計画を行った期間の後に訪れました。",
+        "question": "その瞬間、どんな気持ちですか？",
+        "answer": "悲しみ",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 295,
+        "narrative": "先ほど、皆さんにはプールの服装規定についてお知らせしました。",
+        "question": "手前にいるその人は、プールに入る直前、どんな気持ちですか？",
+        "answer": "満足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 305,
+        "narrative": "この女の子たちは最近、ネットで話題になっているのを聞いて、一緒にベイプを試してみることにしました。",
+        "question": "中央の女の子はどんな気持ちですか？",
+        "answer": "満足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 309,
+        "narrative": "あなたは最近新しい街に引っ越し、知人を通じて少しずつ人と知り合っています。",
+        "question": "この最初の挨拶の後、どんな気持ちですか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "この瞬間、ソファに座っている若い女性は母親と一緒にいてどんな気持ちでいるのでしょうか？",
+        "answer": "満足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 358,
+        "narrative": "あなたとクラスメートは仲が良い関係です。先ほど、友達があなたの最近の髪型を褒めてくれました。",
+        "question": "この瞬間、どんな気持ちですか？",
+        "answer": "楽しみ",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 362,
+        "narrative": "先ほど、あなたは今度の旅行のためにスーツケースを詰めました。",
+        "question": "この瞬間、どんな気持ちですか？",
+        "answer": "苦痛",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 377,
+        "narrative": "次の授業の直前に体調が悪くなり、すぐに助けが必要だと感じました。",
+        "question": "トイレに向かって廊下を歩いているその瞬間、どんな気持ちでしたか？",
+        "answer": "恥ずかしさ",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "この瞬間、提灯のそばに立っているその人はどんな気持ちなのでしょうか？",
+        "answer": "悲しみ",
+        "english_ver_answer": "sadness"
+    }
+]
