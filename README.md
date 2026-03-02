@@ -3,8 +3,12 @@
 
 Paper: [Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses](https://arxiv.org/pdf/2601.13024)
 
-We present some representative examples from CEDAR.
-Codes and full Datasets will be released soon!
+We present some representative examples from CEDAR. 
+
+
+For codes and full datasets, please fill out this form: https://docs.google.com/forms/d/e/1FAIpQLSdgVMoum1vFGSk5jed5IBkptebR8PCKwztktD3Z4ldZRvot8A/viewform?usp=publish-editor 
+
+
 
 ## Citation
 
