@@ -9,7 +9,7 @@ We present some representative examples from CEDAR.
 For codes and full datasets, please fill out this form: https://docs.google.com/forms/d/e/1FAIpQLSdgVMoum1vFGSk5jed5IBkptebR8PCKwztktD3Z4ldZRvot8A/viewform?usp=publish-editor 
 
 ## Latest News
-🔥[2026.4.7] Our paper was accepted by **ACL 2026 Main Conference**!
+🔥[2026.4.7] 🎉Our paper was accepted by **ACL 2026 Main Conference**!🎉
 
 ## Citation
 
