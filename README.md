@@ -6,7 +6,6 @@ Paper: [Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affe
 We present some representative examples from CEDAR. 
 
 
-For codes and full datasets, please fill out this form: https://docs.google.com/forms/d/e/1FAIpQLSdgVMoum1vFGSk5jed5IBkptebR8PCKwztktD3Z4ldZRvot8A/viewform?usp=publish-editor 
 
 ## Latest News
 🔥[2026.4.7] 🎉Our paper was accepted by **ACL 2026 Main Conference**!🎉
@@ -16,10 +15,13 @@ For codes and full datasets, please fill out this form: https://docs.google.com/
 If this work is helpful, please kindly cite as:
 
 ```bibtex
-@article{dai2026tears,
-  title={Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses},
-  author={Dai, Chongyuan and Shen, Yaling and Hu, Jinpeng and Gao, Zihan and Li, Jia and Jiang, Yishun and Wang, Yaxiong and Liu, Liu and Ge, Zongyuan},
-  journal={arXiv preprint arXiv:2601.13024},
-  year={2026}
+@misc{dai2026tearscheersbenchmarkingllms,
+      title={Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses}, 
+      author={Chongyuan Dai and Yaling Shen and Jinpeng Hu and Zihan Gao and Jia Li and Yishun Jiang and Yaxiong Wang and Liu Liu and Zongyuan Ge},
+      year={2026},
+      eprint={2601.13024},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.13024}, 
 }
 ```
