@@ -5,7 +5,7 @@ Paper: [Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affe
 
 We present some representative examples from CEDAR. 
 
-
+Codes and datasets are availble at: [https://docs.google.com/forms/u/1/d/1fFBxnRRDGHw0THSxS_qg5gk4BxDRTVJz9uG4P51Jox0](https://docs.google.com/forms/u/1/d/1fFBxnRRDGHw0THSxS_qg5gk4BxDRTVJz9uG4P51Jox0)
 
 ## Latest News
 🔥[2026.4.7] 🎉Our paper was accepted by **ACL 2026 Main Conference**!🎉
