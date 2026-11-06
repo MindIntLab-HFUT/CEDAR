@@ -1,0 +1,2802 @@
+[
+    {
+        "id": 0,
+        "narrative": "Umefanya mazoezi ya utaratibu huu kwa wiki kadhaa, ukilenga kuheshimu tamaduni muhimu.",
+        "question": "Unajisikiaje wakati mtu ambaye hakualikwa anapojitokeza karibu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 1,
+        "narrative": "Baada ya mazungumzo marefu na uongozi kushindwa kuleta maboresho, wewe na wenzako mlifanya uamuzi wa pamoja kuchukua hatua za moja kwa moja.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 2,
+        "narrative": "",
+        "question": "Mtoto anayeketi mwisho wa meza anajisikiaje anapoonja kagemand kwa mara ya kwanza?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 3,
+        "narrative": "Ulikuja sokoni mahsusi kujaribu vyakula ambavyo marafiki walipendekeza hivi karibuni.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 4,
+        "narrative": "Siku chache zilizopita, ulikuwa umejiandaa kwa hali ya hewa ya baridi, ukitarajia idumu kwa muda mrefu zaidi.",
+        "question": "Mtu aliyeketi karibu zaidi na feni anajisikiaje anapopitia mabadiliko haya ya joto?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 5,
+        "narrative": "Yaya hukutunza mara kwa mara baada ya shule, na wazazi wako wamerejea nyumbani tu kutoka kazini.",
+        "question": "Mtoto anayeketi kwenye sofa anajisikiaje kwa wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 6,
+        "narrative": "Mtu anayebeba masanduku ni mpya kazini.",
+        "question": "Je, mtu anayegemea ukuta karibu na mlango anajisikiaje anapotazama wakati huo?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 7,
+        "narrative": "Awali, baadhi ya watu walikuwa wamechelewa kwenye miadi zao na walilazimika kuamua haraka jinsi ya kufika walikokuwa wanaenda.",
+        "question": "Je, mtu aliye mbele kulia kwenye kivuko anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 8,
+        "narrative": "",
+        "question": "Unajisikiaje baada ya mzazi wako kuzungumzia tabia yako?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 9,
+        "narrative": "Ulitumia wiki iliyopita kujiandaa kwa kufanya utafiti kuhusu kampuni na kurekebisha wasifu wako kwa nafasi maalum.",
+        "question": "Unajisikiaje wakati wa tukio hili?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 10,
+        "narrative": "Ulishiriki katika tukio la usafi wa jamii ili kusaidia kuboresha mazingira ya eneo hilo kabla ya kuja kuunga mkono mpango wa wakimbizi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 11,
+        "narrative": "Umeelekezwa hapa baada ya uchunguzi wa hivi karibuni.",
+        "question": "Unajisikiaje wakati wa mazungumzo haya?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 12,
+        "narrative": "Unazingatia chaguzi zinazolingana na bajeti yako ya muda mrefu na mahitaji ya mtindo wako wa maisha.",
+        "question": "Unajisikiaje unapowasiliana na wafanyakazi wa mauzo kwa sasa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "Unajisikiaje kuhusu tukio hili?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 14,
+        "narrative": "Muda wa mwisho wa kukamilisha mavuno unakaribia, na wafanyakazi wamearifiwa kwamba ratiba haiwezi kubadilishwa.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 15,
+        "narrative": "Awali, kila mtu aliamua kucheza mchezo wa pamoja baada ya shule.",
+        "question": "Mtoto aliye karibu na mti anajisikiaje anapohesabu kabla ya kuanza kuwatafuta wenzake?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 16,
+        "narrative": "Awali, mwanamke alifanya uamuzi wa ghafla kuboresha muonekano wako baada ya kuona mtindo ulioupenda.",
+        "question": "Je, mwanamke aliye karibu kabisa na dirisha la duka anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 17,
+        "narrative": "Baadhi yao wamejuana tangu utotoni, na mara nyingi hujadili jinsi wageni wapya wanaweza kubadilisha jinsi mambo yanavyokwenda kawaida.",
+        "question": "Ni hisia gani mtu anayesimama karibu na mlango hupata anapoingia ndani?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 18,
+        "narrative": "Mkusanyiko huu unafuatia mwezi wa kufunga kila siku na matarajio ya siku hii maalum.",
+        "question": "Ni hisia gani watu walio karibu na lango la makaburi wanazopata baada ya kumaliza sala yao?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 19,
+        "narrative": "",
+        "question": "Mwanaume anayesimama kwenye dawati la mapokezi anajisikiaje anapokamilisha hatua ya kiutawala kabla ya miadi yake ya matibabu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 20,
+        "narrative": "Uliwasili mapema kuliko muda uliopangwa, ukitumaini kutoa taswira nzuri kwenye mkusanyiko wa rafiki yako.",
+        "question": "Unajisikiaje kabla ya kusalimiwa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 21,
+        "narrative": "Awali, kila mtu alikubaliana kucheza mchezo pamoja, wakibadilishana zamu kuwa mtafutaji.",
+        "question": "Mtoto aliyelala kwenye kochi anahisi hisia gani kabla tu ya kuanza kuwatafuta wengine?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 22,
+        "narrative": "Mlifika pamoja, baada ya kupanga matembezi haya mapema kama njia ya kuungana na kupata uzoefu mpya.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 23,
+        "narrative": "",
+        "question": "Watu waliokusanyika karibu na viti na wanaosimama mezani wanajisikiaje wanaposubiri tukio lianze?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 24,
+        "narrative": "Mwanaume anaelekea kwenye miadi muhimu pamoja.",
+        "question": "Mtu anayesimama karibu na dirisha la treni anajisikiaje katika wakati huu?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 25,
+        "narrative": "Ulihudhuria tukio hilo pamoja na wazazi wengine uliokutana nao awali kupitia shughuli za shule za hapa.",
+        "question": "Unajisikiaje unapoendelea kujifunza kuhusu manufaa haya?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 26,
+        "narrative": "",
+        "question": "Msichana anayesimama juu ya kiti anajisikiaje wakati anapofikia kuchezea juu ya kabati?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 27,
+        "narrative": "",
+        "question": "Watoto waliokuwa wamesimama karibu na ukuta wa kushoto wanajisikiaje wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 28,
+        "narrative": "Kiongozi wa kikundi hivi karibuni alisaidia kuandaa shughuli za jamii.",
+        "question": "Je, mwanamke aliye upande wa kushoto anajisikiaje kabla ya kumsalimu mshiriki mzee zaidi na kiongozi wa kikundi?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 29,
+        "narrative": "",
+        "question": "Unajisikiaje unapotazama hali hii?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 30,
+        "narrative": "Baada ya kukamilisha kwa mafanikio kozi ngumu ya urubani, uko karibu kuanza jukumu lako la kwanza pamoja na wahudumu wapya uliokutana nao hivi karibuni.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 31,
+        "narrative": "Kabla ya kuhudhuria, ulikuwa umekuwa ukisubiri onyesho hili kwa hamu kwa wiki kadhaa na ulileta kidole cha laser ili kuboresha uzoefu wako.",
+        "question": "Unahisi hisia gani katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 32,
+        "narrative": "",
+        "question": "Je, mwanamke aliye karibu na kioo akiwa amevaa gauni jeupe anajisikiaje muda mfupi baada ya kuingia chumbani?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 33,
+        "narrative": "",
+        "question": "Watu walioko wamesimama kwenye duara wanajisikiaje kwa sasa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 34,
+        "narrative": "Wamewasili tu baada ya kusafiri pamoja, wakihitaji kujitayarisha kabla ya kuendelea na mipango yao.",
+        "question": "Je, mwanamke aliye na begi la mgongoni aliye kwenye sinki anajisikiaje anapojiandaa kunawa mikono yake?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 35,
+        "narrative": "Mwanamke alipanga kununua hapa leo kwa sababu alisikia kwamba bei zinaweza kuathiriwa na mabadiliko ya hivi karibuni ya sera za serikali.",
+        "question": "Je, mwanamke aliye mbele ya kibanda anajisikiaje katika wakati huu?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 36,
+        "narrative": "",
+        "question": "Je, mwanamke aliye mbele anajisikiaje anapomsalimu mwenzake mpya kazini?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 37,
+        "narrative": "Ulishauriwa mapema kuhusu umuhimu wa adabu rasmi na kuwatambua watu wote ipasavyo.",
+        "question": "Unajisikiaje, ukiwa umeketi karibu kabisa na dirisha, kabla hujawahutubia wazee rasmi?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 38,
+        "narrative": "Umekuwa ukikwepa vyombo vya sheria kwa siku kadhaa, lakini hivi karibuni umeamua kujisalimisha baada ya kutafakari madhara yake.",
+        "question": "Unajisikiaje kabla ya kuzungumza na maafisa?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 39,
+        "narrative": "Ulialikwa kujiunga na mkusanyiko huu na mzazi wako, ambaye alitaka kushiriki nawe jadi yenye maana.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 40,
+        "narrative": "Ulialikwa kwa ajili ya upigaji picha wa kitaalamu, ambao unaweza kutumika kwa vifaa vya matangazo au kujitangaza binafsi.",
+        "question": "Unahisi hisia gani katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 41,
+        "narrative": "Ulikuwa unakimbia kwa sababu ulikuwa umechelewa kwenye miadi muhimu. Hakuna mtu aliyeshuhudia kilichotokea.",
+        "question": "Unajisikiaje mara tu baada ya tukio hilo?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 42,
+        "narrative": "Unakumbuka kujifunza kuhusu desturi za jadi zinazosisitiza kuheshimu wazee katika familia yako.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 43,
+        "narrative": "",
+        "question": "Kila mtu anayesimama kwenye mduara kuzunguka fataki anajisikiaje wakati huu unavyoendelea kujitokeza?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 44,
+        "narrative": "",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 45,
+        "narrative": "",
+        "question": "Mtu aliye angani anajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 46,
+        "narrative": "Ulialikwa na mtu anayependa kuwakaribisha wageni na ana mnyama wa kufugwa anayeruhusiwa kukaa kwenye samani.",
+        "question": "Unajisikiaje unaposimama karibu na kochi mara tu baada ya kupewa kiti?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 47,
+        "narrative": "Watu hao ni wafanyakazi wenza ambao hivi karibuni walikuwa na mzozo mkali kuhusu jukumu muhimu la kazi.",
+        "question": "Ni hisia gani mwanamke aliyevaa sweta ya pinki anapitia katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 48,
+        "narrative": "Umefika mjini hivi karibuni na unakutana na wenyeji hawa baada ya kutumia mtindo tofauti wa kutengeneza kahawa nyumbani kwako.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 49,
+        "narrative": "Awali, ulijifunza kwamba matokeo ya mtihani yangeathiri sana alama yako ya mwisho na ukahisi uwajibikaji wa kudumisha haki.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 50,
+        "narrative": "Awali, mwanaume aliye upande wa kushoto alifanya uamuzi wa makusudi kuwapa wateja mafuta kidogo kuliko walivyolipia, akitarajia kwamba hakuna mtu angegundua.",
+        "question": "Mtu aliye nyuma ya kaunta anajisikiaje katika wakati huo?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 51,
+        "narrative": "Kikundi hiki kinajumuisha wafanyakazi wenzao waliokusanyika kwa chakula cha jioni rasmi kusherehekea mafanikio ya hivi karibuni.",
+        "question": "Unajisikiaje unapongoja kugawiwa sehemu ya kukaa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 52,
+        "narrative": "",
+        "question": "Mtoto aliyevaa shati la buluu anajisikiaje anaposhikilia nafasi yake chini ya benchi?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 53,
+        "narrative": "Awali, familia yako iliamua kuchangia mali.",
+        "question": "Mtu anayesimama katikati ya meza anajisikiaje anaposhiriki katika tukio hili?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 54,
+        "narrative": "Hapo awali, mtu alitaja kujisikia kutokuwa na raha.",
+        "question": "Je, mtu aliyevaa koti la buluu na ameketi kwenye dawati anajisikiaje mara tu baada ya tukio hili?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 55,
+        "narrative": "Wewe na wakazi wa kijiji hicho mnatoka katika tamaduni tofauti.",
+        "question": "Unajisikiaje baada ya kushiriki katika kubadilishana tamaduni?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 56,
+        "narrative": "Wote wawili walikubaliana hivi karibuni kukutana.",
+        "question": "Je, mwanamke aliye upande wa kushoto anajisikiaje wakati wa mazungumzo haya?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 57,
+        "narrative": "Mwombaji ameweka muda kujitayarisha kwa ajili ya mtihani wa udereva.",
+        "question": "Mtu anayesimama kwenye kaunta anajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 58,
+        "narrative": "",
+        "question": "Mtu aliyeketi katikati ya mstari wa mbele anajisikiaje katika nyakati hizi?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 59,
+        "narrative": "Katika ziara zilizopita, mara nyingi ulilazimika kusubiri kabla ya kuketi. Safari hii, ulipanga kuchagua sehemu yako mwenyewe utakapofika.",
+        "question": "Unajisikiaje baada ya kukaa pamoja?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 60,
+        "narrative": "",
+        "question": "Msichana mwenye mtandio anajisikiaje katika wakati huu?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 61,
+        "narrative": "Awali, chakula cha jioni kilikuwa kimeisha na kulikuwa na matarajio ya kusaidia kusafisha.",
+        "question": "Mtoto anayekaa kwenye kigoda karibu na sahani zilizovunjika anajisikiaje baada ya matukio haya?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 62,
+        "narrative": "",
+        "question": "Ni hisia gani mtoto aliyevaa shati la manjano anazopitia katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 63,
+        "narrative": "Awali wageni walitarajia picha ya kawaida ya kukumbuka tukio hilo. Uliombwa kunasa tukio kwa ajili ya kila mtu.",
+        "question": "Wageni ambao miguu yao inaonekana wanajisikiaje baada ya kugundua aina ya picha iliyopigwa?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 64,
+        "narrative": "Uliitwa kwa mahojiano kuhusiana na tukio la hivi karibuni na ukaagizwa usiwasiliane na mtu yeyote nje.",
+        "question": "Unajisikiaje wakati wa tukio hili?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 65,
+        "narrative": "Awali, walikamilisha kazi zao kabla ya muda uliopangwa, wakitarajia kupumzika kabla ya mkutano unaofuata.",
+        "question": "Ni hisia gani mtu aliyeketi kwenye dawati la mbele anazopitia katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 66,
+        "narrative": "Uko na watu usiowajua.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 67,
+        "narrative": "Watu hao wawili ni marafiki wa muda mrefu, na mmoja wao alikuwa na matumaini ya kumvutia mwenzake wakati wa ziara hii.",
+        "question": "Mtu aliye karibu zaidi na vase anajisikiaje baada ya rafiki yake kukataa ombi?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 68,
+        "narrative": "Baadhi ya washiriki wanakutana kwa mara ya kwanza, huku wengine wakifahamiana kutoka kozi zilizopita.",
+        "question": "Unahisi hisia gani kabla ya kujaribu mpigo wako wa kwanza?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 69,
+        "narrative": "",
+        "question": "Kundi lililo karibu na bwawa linajisikiaje wanapojiandaa kushiriki katika shughuli za siku?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 70,
+        "narrative": "Hivi karibuni uliamua kujaribu tiba ya jadi baada ya kusikia hadithi nzuri kutoka kwa wengine katika jamii yako.",
+        "question": "Unahisi hisia gani unaposimama mbele ya mtaalamu wakati wa ziara hii?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 71,
+        "narrative": "Hivi karibuni umejifunza mbinu na mikakati muhimu ya usalama kutoka kwa mkufunzi mwenye uzoefu.",
+        "question": "Kila mtu kwenye mtumbwi anajisikiaje wakati huu wa safari ya mtoni?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 72,
+        "narrative": "Ulikuwa unajua kwamba wachunguzi walikuwa kwenye jukwaa usiku wa leo.",
+        "question": "Unajisikiaje wewe, mpira ukiwa karibu na mstari wa faulo, katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 73,
+        "narrative": "Ulikuwa umeambiwa awali kwamba maji yalitolewa bure kutokana na sera maalum, jambo lililokufanya uombe maji.",
+        "question": "Unajisikiaje baada ya wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 74,
+        "narrative": "Wakati huu unaashiria mwanzo wa desturi ya kifamilia inayosherehekewa katika mikusanyiko maalum.",
+        "question": "Je, ndugu wa ukoo walio wachanga walioko upande wa kushoto wanajisikiaje wakati wa desturi hii?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 75,
+        "narrative": "",
+        "question": "Je, mwanamke anayesimama karibu na mchoro mkubwa wa msitu anajisikiaje anapozungumza na mwenzake?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 76,
+        "narrative": "Hivi karibuni umefanikiwa kupata uungwaji mkono wa baadhi ya wenzako wenye ushawishi baada ya miezi kadhaa ya kujenga ushirikiano wa kimkakati.",
+        "question": "Unajisikiaje unaposimama kwenye jukwaa kuu wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 77,
+        "narrative": "Ulishuhudia wizi muda mfupi uliopita na ukaamua kuingilia kati.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 78,
+        "narrative": "Baadhi walipanga kumaliza shughuli zao mapema kuliko kawaida.",
+        "question": "Je, mwanamke anayetembea na watoto wawili anajisikiaje kabla tu ya kuondoka sokoni?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 79,
+        "narrative": "Mwanamke huyo mchanga amehamia hivi karibuni katika jiji jipya na bado hamjui mtu yeyote katika eneo hilo.",
+        "question": "Je, mwanamke aliyesimama karibu kabisa na mlango anajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 80,
+        "narrative": "Wengi wa waliokuwepo wamekuwa wakijiandaa kwa miezi kadhaa kwa ajili ya mkusanyiko huu.",
+        "question": "Je, mtu anayesimama katikati ya kundi katika ukumbi huu anajisikiaje wakati wa tukio hili?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 81,
+        "narrative": "Wewe na wenzako mmefanya kazi pamoja kwa miaka kadhaa na hivi karibuni mmejua kuhusu uwezekano wa kupunguzwa kwa wafanyakazi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 82,
+        "narrative": "Mwanaume huyo anachelewa kwa mkutano muhimu mjini, na kukosa treni hii kutaathiri sana mipango yake.",
+        "question": "Mtu anayeliweka begi mlangoni anajisikiaje kwa wakati huu?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 83,
+        "narrative": "Ulikuwa na jukumu la kudumisha usalama na usafi kama sehemu ya majukumu yako.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 84,
+        "narrative": "",
+        "question": "Je, mwanamke anayesimama karibu na mahali pa moto anajisikiaje kabla ya mkusanyiko huu kuanza?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 85,
+        "narrative": "Umefika hivi karibuni katika kambi hii, na leo ndiyo siku ya kwanza ya zoezi lako kubwa la mafunzo.",
+        "question": "Mtu aliye karibu na mlango anajisikiaje mafunzo yanapokaribia kuanza?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 86,
+        "narrative": "Wagonjwa wengi wanategemea kituo hiki kwa usimamizi endelevu wa magonjwa sugu.",
+        "question": "Mwanaume anayekaa kwenye dawati pamoja na mtoa huduma anajisikiaje anapokuwa akizungumza naye?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 87,
+        "narrative": "Awali, uliangalia utabiri wa hali ya hewa na ukahofia kuhusu kubaki katika hali ya starehe kwa muda mrefu ukiwa nje.",
+        "question": "Mtu anajisikiaje wakati huo?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 88,
+        "narrative": "Ulifika mahakamani baada ya kuchaguliwa kupitia mchakato wa kisheria na ulipewa taarifa kuhusu majukumu yako kabla ya kuingia.",
+        "question": "Unajisikiaje katika hatua hii ya mchakato?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 89,
+        "narrative": "Unakumbuka mwongozo wa hivi karibuni kuhusu kupunguza mawasiliano ya karibu ya kimwili kutokana na sababu za kiafya. Mwenzako unayekutana naye ni mtu ambaye hujamwona kwa wiki kadhaa.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 90,
+        "narrative": "",
+        "question": "Mtu anayesimama karibu na gari la buluu anajisikiaje kwa sasa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 91,
+        "narrative": "Kabla ya kuhudhuria, ulikuwa unatumaini uwezekano wa kuanzisha uhusiano wa maana, hasa na mtu kutoka nchi nyingine.",
+        "question": "Unajisikiaje mazungumzo yako yanapoanza?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 92,
+        "narrative": "Mwanamke yuko njiani kwenda kukutana na rafiki yake na anahitaji kuvuka barabara ili afike anakoenda.",
+        "question": "Mtu aliye kwenye kivuko cha watembea kwa miguu anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 93,
+        "narrative": "Umejiandaa kikamilifu, ukiwa na matumaini kwamba fursa hii itasaidia kukuza malengo yako ya kazi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 94,
+        "narrative": "Mgonjwa hana historia yoyote inayojulikana katika hospitali hii na alifika bila kutarajiwa.",
+        "question": "Mtu aliyevaa sare za maua anajisikiaje anaposhiriki katika hali hii?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 95,
+        "narrative": "Wewe na wenzako mmeunda makundi ya kujisomea hivi karibuni.",
+        "question": "Unajisikiaje unapojihusisha na mada hizi kwa wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 96,
+        "narrative": "Wewe na wenzako kazini mna uhusiano wa kirafiki.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 97,
+        "narrative": "",
+        "question": "Mwanafunzi aliyevaa blauzi ya buluu anajisikiaje katika sehemu hii ya mazoezi?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 98,
+        "narrative": "Timu ilikuwa chini ya shinikizo kumaliza kazi haraka kutokana na ukaguzi unaotarajiwa.",
+        "question": "Mtu aliye karibu zaidi na chombo kilichopinduka anajisikiaje mara tu baada ya tukio hilo?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 99,
+        "narrative": "Hivi karibuni uliweka lengo la kufanya kazi na kuishi nje ya nchi na ukatumia muda kujiandaa kwa ajili ya mchakato wa maombi.",
+        "question": "Unahisi hisia gani kabla ya kuanza mazungumzo?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 100,
+        "narrative": "Hapo awali, ulikuwa na wasiwasi kuhusu kuonja vyakula usivyovijua na rafiki yako alikuhimiza ujaribu kitu kipya.",
+        "question": "Unajisikiaje baada ya kuonja chakula?",
+        "answer": "kinyaa",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 101,
+        "narrative": "",
+        "question": "Unajisikiaje wakati wa mkusanyiko huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 102,
+        "narrative": "Kabla ya kuingia kwenye chumba, ulizingatia sifa za wagombea mbalimbali na ukafanya uamuzi kulingana na utafiti wa awali.",
+        "question": "Unajisikiaje unapopitia nyaraka hivi sasa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 103,
+        "narrative": "Hapo awali, ulifikiria kushiriki uzoefu wako wa sokoni mtandaoni. Wauzaji hawakujua nia yako ya kupiga picha.",
+        "question": "Wauzaji walio karibu na vikapu vya mazao wanajisikiaje mara tu baada ya picha zao kupigwa?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 104,
+        "narrative": "Mgonjwa alilazwa baada ya kupata shida ya ghafla ya kupumua.",
+        "question": "Mgonjwa aliyelala kitandani hospitalini anajisikiaje wakati huu?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 105,
+        "narrative": "Kabla ya wakati huu, familia yako ilikuwa imemaliza tu mazungumzo kuhusu matarajio ya uchumba.",
+        "question": "Unajisikiaje baada ya hapo?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 106,
+        "narrative": "",
+        "question": "Mtu aliye upande wa kulia anajisikiaje wakati huu wa mawasiliano ya kwanza?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 107,
+        "narrative": "Washiriki wengi wamesafiri kutoka miji mbalimbali na baadhi yao wanashiriki mkutano huu kwa mara ya kwanza.",
+        "question": "Je, mtu anayesimama mstari wa mbele, katikati, anajisikiaje wakati wa tukio hilo?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 108,
+        "narrative": "",
+        "question": "Je, mtu anayehudumia vyakula kwenye kona ya chini kulia anajisikiaje anapofanya hivi?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 109,
+        "narrative": "Ulipanga mkutano huu baada ya kuzungumza na mtu unayemfahamu na ukaamua kununua vidonge vya usingizi kwa sababu zako binafsi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 110,
+        "narrative": "Wewe na wengine wengi mmekuwa mkisubiri tukio hili tangu bendi ilipotangaza albamu yao mpya.",
+        "question": "Watazamaji katika umati wanajisikiaje wakati wa onyesho hili?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 111,
+        "narrative": "Mapema leo, uliona kwamba kila mtu alionekana kuchoka sana na ukaamua kununua chakula cha jioni ulete nyumbani badala ya kupika.",
+        "question": "Unajisikiaje unapoweka chakula mezani wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 112,
+        "narrative": "Wewe na watoto wengine ni wanafunzi wenzako ambao hukutana mara kwa mara baada ya shule ili kucheza pamoja.",
+        "question": "Unajisikiaje mara tu baada ya mpira wako wa theluji kumpiga rafiki yako?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 113,
+        "narrative": "Ilikuwa mara yako ya kwanza kujaribu chakula hiki.",
+        "question": "Unajisikiaje baada ya kuonja chakula?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 114,
+        "narrative": "Kikundi kilipanga matembezi haya pamoja mapema na kuratibu kuwasili kwao ili wapate muda wa mapema wa kucheza gofu.",
+        "question": "Ni hisia gani mwanamke aliyevaa shati la waridi anazopitia kabla tu ya raundi kuanza?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 115,
+        "narrative": "Mmoja wa wanafunzi alikuwa amepanga mzaha kwa mwanafunzi mwenzake wakati wa masomo.",
+        "question": "Mwanafunzi aliyesimama karibu na dawati anajisikiaje mara tu baada ya kugundua kilichotokea?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 116,
+        "narrative": "Unatembelea eneo hili na rafiki yako ambaye mmekuwa mkifahamiana tangu chuo kikuu, mkipanga kukutana na wengine baadaye kwa chakula cha mchana.",
+        "question": "Unajisikiaje unaposimama chini ya majani mekundu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "Mtu ambaye sikio lake linachomwa anajisikiaje wakati wa tukio hili?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 118,
+        "narrative": "Wazee na watoto wamechagua kubaki nje kwa ajili ya sala hii maalum.",
+        "question": "Kila mwanaume anajisikiaje anapoingia kutoka upande wa kushoto wa ukumbi?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 119,
+        "narrative": "",
+        "question": "Je, mtu anayeketi kwenye kiti cha mbele kushoto anajisikiaje pale mtu aliye karibu naye anapoanzisha mawasiliano?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 120,
+        "narrative": "",
+        "question": "Mtu aliyeketi upande wa kulia anajisikiaje anaposubiri kuona kama ofa itatolewa tena?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 121,
+        "narrative": "Umemwalika rafiki yako nyumbani, na unataka ajisikie huru wakati wa ziara yake.",
+        "question": "Unajisikiaje unapopewa nafasi iliyokuwa inashikiliwa na mbwa?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 122,
+        "narrative": "Mzazi na mtoto wana uhusiano wa karibu wa kifamilia, na usiku wa hivi karibuni umekuwa mgumu zaidi kutokana na mtoto kupata shida ya kulala.",
+        "question": "Mtu mzima anayeketi kwenye kiti anajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 123,
+        "narrative": "Wachezaji wamekuwa wakijiandaa kwa tukio hili kwa wiki kadhaa, wakifanya mazoezi kama timu na kujifunza mikakati ya wapinzani wao.",
+        "question": "Mchezaji aliye mbele anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 124,
+        "narrative": "Wewe na rafiki yako mlipanga kukutana hapa baada ya kukubaliana kujaribu pamoja kwa mara ya kwanza taratibu za kitamaduni za kupumzika.",
+        "question": "Unajisikiaje hivi sasa mara tu baada ya kupokea bidhaa hiyo?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 125,
+        "narrative": "",
+        "question": "Unajisikiaje wakati wa uzoefu wako wa awali kufuata mila za mwenyeji?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 126,
+        "narrative": "Uligundua kuwa umechelewa kwenda kwenye mkutano na umesahau mwavuli wako nyumbani.",
+        "question": "Unajisikiaje unaponyoosha mkono kuelekea mwavuli wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "Mtu aliye karibu zaidi na mlango wa lifti anajisikiaje mara tu baada ya kitendo chake cha heshima?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 128,
+        "narrative": "Wewe na wengine kwa kawaida mnaongea kwa kifupi tu, kwani mmeanza kufanya kazi pamoja hivi karibuni. Hakuna mtu katika kundi lenu aliyewahi kuanzisha mgusano wa kimwili hapo awali.",
+        "question": "Je, mtu anayekumbatiwa karibu na katikati ya meza anajisikiaje mara tu baada ya tukio hilo?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 129,
+        "narrative": "",
+        "question": "Mtoto aliyevaa koti jekundu anajisikiaje wakati huu anapotembea mbele kwenye njia ya waenda kwa miguu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 130,
+        "narrative": "Uliwasili kutoka kwenye safari ya kimataifa na hapo awali ulichagua kuleta chakula na kuni pamoja nawe, ukijua kwamba vitu hivi vinahitaji kutangazwa unapoingia.",
+        "question": "Unajisikiaje unaposimama kwenye kaunta ya ukaguzi ukiwa na vitu vyako?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 131,
+        "narrative": "Awali, nyinyi wawili mlijadili njia za kuashiria ushirikiano wenu wa kudumu kabla ya jioni hii.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 132,
+        "narrative": "Uliamua kuja hapa kwa nia ya kufurahia chakula cha jadi unachokikumbuka kutoka ziara zako zilizopita.",
+        "question": "Unajisikiaje wakati wa kuagiza chakula, ukiwa umeketi kwenye meza ya mbele?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 133,
+        "narrative": "Unachelewa kwa miadi muhimu na umekuwa ukitafuta sehemu ya kuegesha gari kwa dakika kadhaa.",
+        "question": "Unajisikiaje baada ya tukio hilo la hivi karibuni?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 134,
+        "narrative": "Wanawake walioko mezani wamejuana tangu chuo kikuu na hukutana kila mwaka ili kuimarisha uhusiano wao.",
+        "question": "Wanawake walioketi mezani wanajisikiaje wakati wa mkutano huu wa kila mwaka?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 135,
+        "narrative": "",
+        "question": "Unahisi hisia gani unapopita karibu na wasafiri waliopanga foleni upande wa kushoto wa ngazi za umeme?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 136,
+        "narrative": "Hapo awali, ulijibizana na ndugu yako na ukaamua kumlipiza kisasi kwa siri.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 137,
+        "narrative": "Unapokea huduma ya afya nyumbani kwa mahitaji yako ya kiafya yanayoendelea.",
+        "question": "Unajisikiaje wakati wa mazungumzo yako?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 138,
+        "narrative": "Awali, kila mtu alikubaliana kucheza mchezo wa pamoja baada ya kumaliza vitafunwa vyao.",
+        "question": "Je, mvulana aliyevaa shati la buluu anahisi hisia gani katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 139,
+        "narrative": "Hii ni somo lako rasmi la kwanza katika mada mpya, na umejiandaa kwa kupitia baadhi ya nyenzo nyumbani.",
+        "question": "Unajisikiaje wakati wa jaribio lako la kwanza kwenye jukumu ulilopewa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 140,
+        "narrative": "Familia yako ilikusanyika kwa ajili ya desturi ambayo mmeithamini kwa miaka mingi.",
+        "question": "Unahisi hisia gani katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 141,
+        "narrative": "Watu hawa wawili wanashiriki upendo wa pamoja kwa muziki wa gitaa na kila mmoja wao amevutiwa na vipindi tofauti vya muziki.",
+        "question": "Ni hisia gani mtu aliye upande wa kulia anaweza kuhisi anapopata msukumo?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 142,
+        "narrative": "Awali, ulitumia saa kadhaa ukitumaini kupata habari kuhusu hali ya mwanafamilia.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 143,
+        "narrative": "Huna uhusiano wowote wa awali na muuzaji, na umekuwa ukiweka akiba mahsusi kwa ajili ya ununuzi huu.",
+        "question": "Unajisikiaje kabla ya kubadilishana kufanyike?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 144,
+        "narrative": "",
+        "question": "Watu walioko kwenye umati karibu na mbele ya jukwaa wanajisikiaje wakati wa tukio hili?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 145,
+        "narrative": "Shule hiyo hivi karibuni ilipokea kutambuliwa kwa kutimiza viwango vya kitaifa.",
+        "question": "Watazamaji walioketi ukumbini wanajisikiaje wanapopitia wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 146,
+        "narrative": "Kila mtu aliyeko chumbani anafahamiana kama wanafunzi wenzake au walimu.",
+        "question": "Je, msichana anayesimama katikati mbele ya skrini anajisikiaje mara tu baada ya ishara kutokea?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 147,
+        "narrative": "Mwanamke mzee alikuwa njiani kwenda kumtembelea rafiki yake wa karibu.",
+        "question": "Je, mwanamke anayesimama katikati ya barabara anajisikiaje baada ya wakati huu?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 148,
+        "narrative": "Baada ya kujiandaa kwa mtihani wa leseni, umefanikiwa kukidhi vigezo vinavyohitajika kufanya kazi na wateja.",
+        "question": "Unajisikiaje mara tu unapokuwa umeanza kukata nywele kwa mara ya kwanza?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 149,
+        "narrative": "Hapo awali, uligundua kuwa ilikuwa lazima kutumia kadi maalum kwa ajili ya malipo, na hukujua la kufanya kwa kuwa ilikuwa mara yako ya kwanza kutumia mfumo huu.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 150,
+        "narrative": "Ulikuwa umeketi miongoni mwa wanafunzi wenzako mkijadili mambo binafsi, ghafla tukio lisilotarajiwa likatokea na kuvuruga umakini wako.",
+        "question": "Mwanafunzi aliyeketi katikati anajisikiaje mara tu baada ya wakati huu?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 151,
+        "narrative": "Hapo awali, ulipanga kukusanya vitu vinavyoweza kurejelewa ili kupata pesa za ziada.",
+        "question": "Unajisikiaje wakati wa mazungumzo haya?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 152,
+        "narrative": "",
+        "question": "Je, mwanamke aliye upande wa kulia anajisikiaje anapopokea kombe baada ya siku ya kuchimba?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 153,
+        "narrative": "Mama yako alikuwa amemaliza siku ndefu kazini na alikuwa karibu kuanza ratiba yake ya kawaida ya jioni.",
+        "question": "Mama yako anajisikiaje, akiwa amesimama pembeni ya kaunta, anapopokea unga mara tu baada ya kurudi nyumbani kutoka kazini?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 154,
+        "narrative": "Unatumia muda na wanafamilia wa karibu ambao mnashirikiana jukumu la kuwasaidia wazee wa ukoo.",
+        "question": "Unahisi hisia gani katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 155,
+        "narrative": "Umehamia tu mji huu na bado huna marafiki wala uhusiano wowote hapa.",
+        "question": "Unajisikiaje hivi sasa?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 156,
+        "narrative": "Awali, uliona mwenzako wa kazi alikuwa amemaliza kula na mkono wake haukuwa safi. Ulitaka kumsalimu kwa njia ya kuzingatia hali yake.",
+        "question": "Unajisikiaje wakati huo?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 157,
+        "narrative": "Awali, ulitarajia kupata kiti cha kustarehe ili upumzike.",
+        "question": "Unajisikiaje, wewe mwanamke uliyekaa upande wa kushoto karibu na njia, baada ya tukio hili?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 158,
+        "narrative": "",
+        "question": "Mtu aliye mbele akiwa na mwenge anajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 159,
+        "narrative": "Mapema leo, kulikuwa na kutokuelewana kuhusu kugawana vitu vya kuchezea.",
+        "question": "Mtoto aliye katikati ya uwanja wa mchanga anajisikiaje mara tu baada ya tukio hilo?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 160,
+        "narrative": "Awali, ulikuwa umeishiwa na fedha na ulilazimika kumuomba mtu aliyekuwa karibu akusaidie ili uendelee kucheza. Watu waliokuzunguka ni sura zinazofahamika kutoka ziara zako zilizopita.",
+        "question": "Unajisikiaje unapopokea pesa uliyoazima kabla ya kucheza raundi nyingine?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 161,
+        "narrative": "Watu hao wawili ni wafanyakazi wenza.",
+        "question": "Je, mtu aliye upande wa kushoto anajisikiaje anapozungumza na mfanyakazi mwenzake?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 162,
+        "narrative": "Kikundi kilikuwa kimekubaliana kukutana hapa baada ya kukumbuka mila zao pendwa za sikukuu kutoka mwaka uliopita.",
+        "question": "Watu watatu waliopiga magoti kwenye nyasi wanajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 163,
+        "narrative": "Uzio wa umeme uliwekwa hivi karibuni ili kushughulikia tatizo la wanyama kuharibu mazao. Mume wako hakupewa taarifa kuhusu uwekaji huo.",
+        "question": "Mwanaume aliyeko kwenye uzio anajisikiaje pale anapotambua kusudi la kizuizi hicho?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 164,
+        "narrative": "Unahudhuria miadi hii kama sehemu ya hitaji la kila mwaka na unatarajia kupata manufaa ya kifedha baada ya kuwasilisha.",
+        "question": "Unajisikiaje unaposimama kwenye dawati wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 165,
+        "narrative": "",
+        "question": "Mzazi anayesimama karibu na lango la shule anajisikiaje wakati mtoto wake anapowasili kwa mara ya kwanza mwenyewe kwa basi?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 166,
+        "narrative": "",
+        "question": "Mtoto aliyevaa viatu vyeupe anajisikiaje mara tu baada ya tukio lililohusisha tope?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 167,
+        "narrative": "Mtoto ameandamana na mtu mwenye uzoefu.",
+        "question": "Mtoto aliye upande wa kulia anajisikiaje kabla tu ya wakati huo?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 168,
+        "narrative": "",
+        "question": "Watu waliokaribu na mstari wa mbele wanajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 169,
+        "narrative": "Wanafunzi walikuwa wamehudhuria darasa lile lile kwa wiki kadhaa na baadhi yao walikuwa wameanzisha uhusiano wa kirafiki na mwalimu.",
+        "question": "Mwanafunzi aliyeketi karibu na kompyuta mpakato yenye stika ya paka anajisikiaje mara tu baada ya mwalimu kuzungumza na meza yao?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 170,
+        "narrative": "Mzazi wako aliamua kwamba ilikuwa fursa mwafaka kukuruhusu ujaribu kiasi kidogo.",
+        "question": "Unajisikiaje unapoonja shampeni kwa mara ya kwanza?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 171,
+        "narrative": "",
+        "question": "Mtu aliye mbele ya upanga anajisikiaje katika wakati huu?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 172,
+        "narrative": "Mtoto mdogo aliyeko kwenye kiti cha nyuma ana historia ya ugonjwa wa pumu na anasafiri na mtu anayemfahamu vizuri.",
+        "question": "Mtoto aliyeko kwenye kiti cha nyuma anajisikiaje tukio hili linapotokea?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 173,
+        "narrative": "Mmefanya kazi pamoja kwa miezi kadhaa kuunganisha mitindo yenu ya muziki.",
+        "question": "Unajisikiaje unapotumbuiza katika tukio hili?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 174,
+        "narrative": "Uliamua kumtambulisha mtoto wako kwa utunzaji sahihi wa kucha kama sehemu ya kumfundisha tabia za kiafya.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 175,
+        "narrative": "",
+        "question": "Mwanaume aliyesimama karibu kabisa na upande wa kushoto wa meza anajisikiaje wakati wa kubadilishana salamu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 176,
+        "narrative": "Mwanaume huyo amealikwa kwenye mkusanyiko huu ili kukutana na watu kadhaa kwa mara ya kwanza.",
+        "question": "Je, mtu aliyeketi katikati ya meza anajisikiaje kabla tu ya kutambulishwa na mwenyeji anayesimama?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 177,
+        "narrative": "Ulialikwa kwenye mkusanyiko huu na rafiki wa karibu aliyetarajia utakutana na watu wapya.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 178,
+        "narrative": "",
+        "question": "Mtu aliyekaribu zaidi na rafu anajisikiaje baada ya kugundua kuwa bidhaa zilizonunuliwa zimekwisha muda wake wa matumizi?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 179,
+        "narrative": "Ulikuwa unajua sheria za eneo hili kabla ya kufika, lakini uliamua kuendelea licha ya uwezekano wa madhara.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 180,
+        "narrative": "Mwanamke huyo ni mteja ambaye wewe na wenzako mnakutana naye kwa mara ya kwanza kama sehemu ya mradi muhimu.",
+        "question": "Anahisi vipi mwanaume anayesimama kati ya wenzake wawili katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 181,
+        "narrative": "Ulikuwa umepanga kula katika mkahawa huu na kutegemea msaada kutokana na utembeaji mdogo.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 182,
+        "narrative": "Mtu aliyeketi kwenye dawati ni mwalimu ambaye anawajibika kushughulikia wasiwasi wa hivi karibuni kuhusu tabia ya mwanafunzi na kujiandaa kwa mazungumzo kutokana na sera ya shule.",
+        "question": "Mwalimu aliyeko mezani anajisikiaje kabla ya kukutana na mwanafunzi kujadili tabia yake?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 183,
+        "narrative": "Awali, wazazi walikuwa wamewakumbusha wote kuhusu umuhimu wa mila hizi.",
+        "question": "Mtu anayesimama karibu na katikati ya meza anajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 184,
+        "narrative": "Ulichagua kuhudhuria tukio hili bila mwaliko, ukijua kwamba mwenzi wako wa zamani ndiye anayesherehekewa.",
+        "question": "Unajisikiaje unapotazama tukio hilo?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 185,
+        "narrative": "",
+        "question": "Mtu anayesubiri kwenye kaunta anajisikiaje kabla hajanywa funda lake la kwanza?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 186,
+        "narrative": "Watu hawa walitumia miezi kadhaa wakijiandaa kwa mabadiliko makubwa ya maisha, wakichochewa na matumaini ya fursa mpya na usalama.",
+        "question": "Je, mtu aliyevaa shati la mistari ya buluu anajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 187,
+        "narrative": "",
+        "question": "Mtu aliyevaa fulana ya mikono mifupi anajisikiaje anaposimama miongoni mwa wengine kwenye njia ya waenda kwa miguu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 188,
+        "narrative": "Wafanyakazi wameelekezwa kutumia bidhaa mpya kwa ukarimu zaidi.",
+        "question": "Je, mtu aliyeketi kwenye meza ya mbele anajisikiaje wakati mfanyakazi anapofuata maagizo mapya?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 189,
+        "narrative": "",
+        "question": "Mtu anayesimama kwenye kaunta anajisikiaje katika muda mfupi kabla ya kuonja bidhaa za nyama?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 190,
+        "narrative": "Ulikuwa unahisi njaa sana siku hiyo na hukutaka kuvutia watu wakutazame.",
+        "question": "Unajisikiaje unaposhika uma ulioko mbele kwenye picha kabla ya kuendelea na chakula chako?",
+        "answer": "kinyaa",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 191,
+        "narrative": "Wewe na wengine mmekusanyika kufuatana na desturi ya muda mrefu ambayo jamii yenu huizingatia mara kwa mara, mkishirikiana imani zilizorithishwa kutoka kizazi hadi kizazi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 192,
+        "narrative": "",
+        "question": "Kikundi kilichoko mstari wa mbele kinajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 193,
+        "narrative": "Mtoto alikuwa ameomba vitu vya ziada vya kuchezea wakati wa kuoga awali.",
+        "question": "Mtu mzima anayesimama karibu na bafu anajisikiaje mara tu baada ya wakati huu?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 194,
+        "narrative": "",
+        "question": "Je, mwanamke aliyevaa koti la beige anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 195,
+        "narrative": "Hapo awali, ulisita kuwasogelea wenzako darasani kwa sababu mara nyingi unahisi wasiwasi katika mazingira ya kijamii.",
+        "question": "Unajisikiaje mwalimu anapoanza kuzungumza na wewe?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 196,
+        "narrative": "Umekuwa ukisubiri kwa hamu mkutano huu muhimu, ukijua kwamba unaweza kuathiri mgao wa miradi ijayo.",
+        "question": "Unajisikiaje, unaposimama kando ya meza, mwanamke mwenye mkoba wa nyaraka anapoingia chumbani?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 197,
+        "narrative": "Watu walioko kwenye chumba wamekusanyika pamoja.",
+        "question": "Watoto walioketi mbele wanahisi hisia gani katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 198,
+        "narrative": "Uongozi wa shule umeamua hivi karibuni kutekeleza sera kali zaidi za afya kwa washiriki wote kutokana na miongozo mipya ya wilaya.",
+        "question": "Mwanafunzi anayesimama kwenye dawati la mbele anajisikiaje anapozungumza na wafanyakazi wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 199,
+        "narrative": "Uliwasili hapa ukitafuta vidokezo kuhusu historia ya familia yako. Mkahawa wa maktaba ameandaa kitu kulingana na ombi lako la awali kuhusu rekodi za kihistoria za eneo hili.",
+        "question": "Unajisikiaje wakati unapopokea kutoka mezani?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 200,
+        "narrative": "Mwanafunzi huyu hupanda basi hili mara kwa mara akielekea nyumbani, na dereva amekuwa akimfahamu kutokana na safari zake za awali baada ya shule.",
+        "question": "Dereva, aliyeketi mbele ya basi, anajisikiaje anapomtazama mwanafunzi baada ya shule?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 201,
+        "narrative": "Wengi wa watu hawa wanakimbilia miadi au wanarudi nyumbani baada ya siku ndefu.",
+        "question": "Mtu aliye mbele ya kivuko anajisikiaje anaposonga mbele wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 202,
+        "narrative": "Ulikusudia kuvuta hisia zake kwa njia ya kibinafsi.",
+        "question": "Karani wa kwenye kaunta ya malipo alijihisije wakati ulipogusa mkono wake?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 203,
+        "narrative": "Mzee huyo na wengine kadhaa kwenye tukio hilo ni marafiki wa muda mrefu ambao huenda pamoja mara kwa mara. Ulipanga kufanya mzaha wakati alipokuwa karibu kujiunga na kundi.",
+        "question": "Mzee anayesimama karibu na meza anajisikiaje mara tu baada ya kitendo hiki?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 204,
+        "narrative": "Kijana huyo alifika akitumaini kupata marafiki wapya lakini hakumjua mtu yeyote kabla.",
+        "question": "Mvulana aliyesimama karibu na kundi anajisikiaje baada ya tukio hilo?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 205,
+        "narrative": "Mtu huyo alialikwa kwenye mkusanyiko huu.",
+        "question": "Mtu anayepiga magoti kwenye mlango ana hisia gani katika wakati huu, kabla ya kuingia ndani?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 206,
+        "narrative": "Unakumbuka kwamba mzazi wako amewahi kuweka sheria za familia wakati wa chakula.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 207,
+        "narrative": "Mtu anayepokea chakula alikuwa tayari amezungumza na wafanyakazi kuhusu vikwazo vyake vya lishe, na wafanyakazi hawamfahamu binafsi.",
+        "question": "Je, mtu aliyeko kaunta anajisikiaje baada ya wafanyakazi kutimiza ombi lake la chakula tofauti?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 208,
+        "narrative": "Watu waliokusanyika wana uhusiano wa muda mrefu wa kifamilia, wakikutana tena baada ya miezi kadhaa wakiwa wametengana kwa ajili ya tukio maalum.",
+        "question": "Unajisikiaje mara tu baada ya tukio hili?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 209,
+        "narrative": "",
+        "question": "Je, mtu aliyeketi katikati ya meza anajisikiaje baada ya kuonja chakula kwa mara ya kwanza?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 210,
+        "narrative": "Kabla ya wakati huu, mlifanya mazoezi ya ngoma ya Al-'Adda na kikundi chenu na kujadili umuhimu wake wa kitamaduni pamoja.",
+        "question": "Unajisikiaje wakati wa utendaji wako?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 211,
+        "narrative": "",
+        "question": "Wajitolea walioko mezani wanajisikiaje wakati wa tukio?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 212,
+        "narrative": "Watu waliopo hapa wanahudhuria kama sehemu ya mchakato unaohitajika ili kudumisha idhini ya kisheria kwa magari yao.",
+        "question": "Je, mtu aliye karibu zaidi na kaunta upande wa kushoto anajisikiaje anaposhiriki katika tukio hili?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 213,
+        "narrative": "Watu wanne walioketi pamoja wamejuana tangu chuo kikuu na walipanga matembezi haya kama mkutano wao wa kila mwaka wa majira ya joto.",
+        "question": "Je, mwanamke aliye upande wa kushoto anajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 214,
+        "narrative": "Watu hao wawili waliendeleza uhusiano wa karibu wakati wa miaka yao ya shule.",
+        "question": "Ni hisia gani mtu aliye upande wa kushoto anazipitia wakati wa tukio hili?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 215,
+        "narrative": "Mhasibu na mteja wanatambuana kutokana na kukutana mara kadhaa.",
+        "question": "Ni hisia gani mteja anapitia katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 216,
+        "narrative": "Awali, uliamua kuongeza chumvi kwenye chai kama mzaha kwa rafiki yako wakati wa ziara yao.",
+        "question": "Mtu aliye upande wa kushoto anajisikiaje baada ya kugundua chai ni ya chumvi?",
+        "answer": "kinyaa",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 217,
+        "narrative": "",
+        "question": "Mtoto aliye juu ya ngazi anajisikiaje akiwa amesimama pale?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 218,
+        "narrative": "Mwanamke huyo hapo awali alitumia muda kupanga chakula na kuwaalika wote.",
+        "question": "Je, mwanamke aliyesimama karibu na kaunta ya jikoni anajisikiaje wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 219,
+        "narrative": "Hadi hivi karibuni, joto lilikuwa limeendelea kuwa baridi isivyo kawaida kwa miezi kadhaa.",
+        "question": "Je, mtu aliye upande wa kushoto kabisa anajisikiaje katika wakati huo?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 220,
+        "narrative": "Mapema leo, ulitumia muda na marafiki kusherehekea tukio maalum. Uliahidi kusaidia kusafisha baada ya sherehe.",
+        "question": "Unajisikiaje baada ya kuondoka eneo hilo?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 221,
+        "narrative": "Mgeni alikumbuka upendeleo wako wa vitafunwa fulani wakati wa utoto na alitaka kukupa faraja wakati wa kupona kwako.",
+        "question": "Unajisikiaje wakati mgeni analeta sahani?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 222,
+        "narrative": "Leo, jirani aliweka pakiti iliyokuwa imekusudiwa kwako hadi uliporudi.",
+        "question": "Unajisikiaje wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 223,
+        "narrative": "Wewe na wanafunzi wenzako mmekusanyika kama wanafunzi kuanza somo na mwalimu wenu.",
+        "question": "Unajisikiaje, wewe mwanafunzi uliyekaa mstari wa mbele upande wa kushoto, katika muda mfupi kabla ya somo kuanza?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 224,
+        "narrative": "Unakumbuka uzoefu wako wa awali kwenye usafiri wa umma na unatambua upendeleo wako wa kuwa na nafasi yako binafsi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 225,
+        "narrative": "Ulitumia saa nyingi ukihangaika kuhusu kama umejifunza vya kutosha na ukaamua kubeba kijikaratasi kidogo endapo utasahau jambo muhimu.",
+        "question": "Unajisikiaje wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 226,
+        "narrative": "Hii ni mara ya kwanza kwa mmoja wenu kujiandaa kusafiri mbali na nyumbani.",
+        "question": "Unajisikiaje unapotarajia safari yako ya kwanza kwenda mbali na maeneo unayoyafahamu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 227,
+        "narrative": "Wewe na wenzako ni wafanyakazi wenzako ambao hivi karibuni mmekamilisha jukumu muhimu pamoja.",
+        "question": "Unahisi hisia gani katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 228,
+        "narrative": "Kabla ya tukio hili, wanafunzi waliandaa maswali kuhusu ushiriki wa kiraia ya kumuuliza afisa mgeni.",
+        "question": "Wanafunzi walioketi kwenye madawati wanajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 229,
+        "narrative": "Baadhi ya wanafunzi wenzenu wameeleza mapema kwamba vyakula fulani vinaweza kuwafanya wasijisikie vizuri kutokana na hali zao za lishe.",
+        "question": "Wanafunzi wanaoketi pamoja mezani wanajisikiaje wanapochagua chakula?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 230,
+        "narrative": "Awali, ulikuwa umepanga kufika pamoja na rafiki wa karibu, lakini hali zisizotarajiwa ziliwatenganisha njiani.",
+        "question": "Unajisikiaje hivi sasa, ukijua kwamba awali ulipaswa kuwa na rafiki yako?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 231,
+        "narrative": "Familia kadhaa ambazo huhudhuria mikusanyiko ya eneo hilo mara kwa mara ziliwasili ili kutumia muda pamoja baada ya kupanga tarehe mapema.",
+        "question": "Watoto walioketi kwenye blanketi la pikiniki wanajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 232,
+        "narrative": "Awali, uliona hali ya wasiwasi miongoni mwa wenzako. Ulitarajia mazungumzo yaliyokuwa na utulivu zaidi wakati wa mapumziko yako.",
+        "question": "Unahisi vipi hisia zako unapokuwa ukishirikiana na mfanyakazi mwenzako?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 233,
+        "narrative": "Baadhi ya washiriki walijadili matumaini yao ya mabadiliko ya baadaye kabla ya kuwasili.",
+        "question": "Je, watu wanaoshikilia mabango katikati wanahisi hisia gani katika wakati huu?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 234,
+        "narrative": "Hapo awali, uliangalia filamu ya kusisimua na marafiki zako na mkataka kuigiza tena tukio moja pamoja.",
+        "question": "Unajisikiaje unaposhiriki katika shughuli ya kikundi?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 235,
+        "narrative": "Ulifika mahali hapa ukiwa na nia ya kutoa hotuba muhimu kwa jamii.",
+        "question": "Unajisikiaje kabla tu ya hotuba, baada ya kuzungumza na yule mwanaume aliyekuwa karibu?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 236,
+        "narrative": "Ulikuwa na haraka kufika kwenye miadi na ukahisi kutokuwa na uhakika kuhusu jinsi ya kupita katika eneo lenye watu wengi.",
+        "question": "Afisa wa polisi anayesimama kwenye jukwaa anajisikiaje baada ya kukuongoza?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 237,
+        "narrative": "",
+        "question": "Mtu anayekupatia kahawa kwenye kaunta anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 238,
+        "narrative": "",
+        "question": "Wanafunzi walioketi darasani wanajisikiaje wanapoangalia tukio linalotokea nje?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 239,
+        "narrative": "",
+        "question": "Mcheza sanaa anajisikiaje anaposimama mbele ya umati wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 240,
+        "narrative": "Mapema siku hiyo, ulijisikia kukatishwa tamaa kutokana na kutokubaliana na mwanafunzi mwenzako.",
+        "question": "Unajisikiaje mara tu baada ya wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 241,
+        "narrative": "Kabla ya mkutano, ulipewa ushauri wa kutumia ishara za mikono wazi ili kuhimiza mazingira ya ushirikiano zaidi.",
+        "question": "Unajisikiaje kusimama mbele ya chumba?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 242,
+        "narrative": "Awali, nyote wawili mlikubaliana kuchunguza sehemu ya jiji ambayo hakuna mmoja wenu aliyewahi kutembelea hapo awali.",
+        "question": "Unajisikiaje unapotoa maoni yako mahali hapa?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 243,
+        "narrative": "",
+        "question": "Unajisikiaje unaposhiriki kwenye mkusanyiko?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 244,
+        "narrative": "",
+        "question": "Watu waliokusanyika pamoja wanajisikiaje wakati wa mkutano huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 245,
+        "narrative": "",
+        "question": "Wanandoa wanaotembea pamoja katikati wanajisikiaje wanapogundua wengine wakiwatizama?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 246,
+        "narrative": "Hivi karibuni umekamilisha idadi inayohitajika ya saa za udereva chini ya usimamizi na sasa unaendesha gari kwa kujitegemea chini ya masharti ya leseni ya muda.",
+        "question": "Unajisikiaje wakati wa mazungumzo haya?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 247,
+        "narrative": "Umefanya kazi chini ya msimamizi huyu kwa miaka kadhaa na hivi karibuni umefanya maamuzi yaliyokiuka sera ya kampuni.",
+        "question": "Unajisikiaje wakati wa mkutano huu na msimamizi?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 248,
+        "narrative": "Wewe na rafiki yako mlipanga matembezi haya ili kujipima uwezo wenu.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 249,
+        "narrative": "",
+        "question": "Mtu anayeingia chumbani anajisikiaje anapoona mkeka wa kuswalia?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 250,
+        "narrative": "Umekuwa ukijizuia kula na kunywa tangu alfajiri kama sehemu ya ibada ya kidini.",
+        "question": "Unajisikiaje kabla tu ya kupokea ununuzi wako?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 251,
+        "narrative": "Wakati huu unafuata kipindi cha kutafakari na kupanga pamoja na ndugu wa karibu.",
+        "question": "Unajisikiaje katika nyakati hizi?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 252,
+        "narrative": "Mwanaume huyo ni msimamizi wa mwanamke huyo na alikuwa ameonyesha awali kwamba angegharamia wote wawili. Mkutano huu ulikusudiwa kuwa ishara ya shukrani kutoka kwake.",
+        "question": "Je, mwanamke aliye upande wa kushoto anajisikiaje wakati huu pale msimamizi wake anapomwomba wagawane bili?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 253,
+        "narrative": "",
+        "question": "Ni hisia gani mwanamke aliye katikati anazipata baada ya kukutana na watu hawa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 254,
+        "narrative": "",
+        "question": "Mtu anayehudumia vyakula kichwani mwa meza anajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 255,
+        "narrative": "",
+        "question": "Je, mwanamke aliyevaa gauni la buluu ya majini anajisikiaje anaposimama karibu na mwenzi wake katika eneo kuu la ukumbi wa michezo?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 256,
+        "narrative": "",
+        "question": "Je, mtu aliyevaa shati la buluu katikati anajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 257,
+        "narrative": "",
+        "question": "Mtu anayesimama karibu kabisa na baa anajisikiaje kabla tangazo la kufungwa mapema halijatolewa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 258,
+        "narrative": "",
+        "question": "Ni hisia gani mtu anayetembea kwenye njia baada ya kuondoka kambini anazopitia mara tu baada ya kuondoka?",
+        "answer": "kinyaa",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 259,
+        "narrative": "Unajiandaa kwa tukio muhimu linalokuhitaji ujiandae kwa ufanisi.",
+        "question": "Unajisikiaje unaposaidiwa wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 260,
+        "narrative": "",
+        "question": "Mtu aliyeketi hapa anajisikiaje anapotumia choo hiki?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 261,
+        "narrative": "Wageni wanafuata desturi inayosisitiza heshima kwa wazee, ambayo inahitaji kusubiri kuanza kula hadi wazee waanze kula kwanza.",
+        "question": "Wageni wanaosimama kando ya meza wanajisikiaje katika wakati huo?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 262,
+        "narrative": "Hapo awali, uliamua kutolipia bidhaa zako za dukani, ingawa ulijua kuwa ni kinyume na sera ya duka.",
+        "question": "Unajisikiaje mara tu baada ya kuondoka?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 263,
+        "narrative": "Wengi wa watu hawa wamekuwa na desturi ya muda mrefu ya kukusanyika kwa ajili ya ibada za kidini.",
+        "question": "Ni hisia gani ambazo mtu aliyevaa koti jekundu aliye mbele anapitia wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 264,
+        "narrative": "Dakika chache zilizopita, mzozo mkali ulizuka kati ya watu wawili wenye matatizo ambayo hayajatatuliwa. Mtu mmoja alichukua hatua kwa pupa, bila kujali usalama wa wote waliokuwa karibu.",
+        "question": "Je, mhusika mkuu anajisikiaje wakati wa tukio linaloonekana katikati ya picha?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 265,
+        "narrative": "Awali, mlifanya uamuzi pamoja kujaribu mitindo ya vipodozi vya ubunifu.",
+        "question": "Watu watatu walioketi karibu karibu kwenye blanketi wanajisikiaje katika wakati huu?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 266,
+        "narrative": "",
+        "question": "Mvulana anajisikiaje wakati huo?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 267,
+        "narrative": "Kabla ya mchezo huu, timu yako ilipata hasara kadhaa za kuvunja moyo dhidi ya mpinzani huyohuyo.",
+        "question": "Mashabiki walioko mstari wa mbele wanajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 268,
+        "narrative": "Mwalimu alikuwa ameomba kila mtu kusaidia kusafisha baada ya somo kumalizika, lakini baadhi ya wanafunzi walichagua kupumzika na kuzungumza wao kwa wao badala yake.",
+        "question": "Mwanafunzi aliye karibu zaidi na makabati anajisikiaje katika wakati huu?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 269,
+        "narrative": "Kabla ya wakati huu, wanafunzi wawili waliamua kuingiza hewa safi darasani.",
+        "question": "Mwalimu aliye mbele ya dirisha la katikati anajisikiaje hali hii inavyoendelea kujitokeza?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 270,
+        "narrative": "Awali, kila mtu alikubaliana kucheza pamoja baada ya kumaliza chakula cha mchana.",
+        "question": "Mtoto anayejificha nyuma ya benchi anajisikiaje wakati mchezo unaendelea?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 271,
+        "narrative": "",
+        "question": "Mzee aliyekaa mstari wa mbele anajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 272,
+        "narrative": "Leo ni siku ya kwanza rasmi ya jukumu lako katika entomolojia.",
+        "question": "Unajisikiaje wakati wa mtihani huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 273,
+        "narrative": "Mwanaume huyo alikuwa amepanga ziara hii kwa wiki kadhaa na alichukua likizo kazini ili kuhudhuria.",
+        "question": "Mtu anayembeba mtoto katikati ya chumba anajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 274,
+        "narrative": "Hapo awali, kila mtu alikuwa amehudhuria madarasa kivyake, akileta mitazamo tofauti kutokana na uzoefu wao binafsi.",
+        "question": "Je, mtu aliyeketi karibu kabisa na kompyuta mpakato anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 275,
+        "narrative": "",
+        "question": "Wanafunzi walioketi katika ukumbi wa mihadhara wanajisikiaje mara tu baada ya kusikia habari hizo?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 276,
+        "narrative": "",
+        "question": "Unahisi hisia gani, wewe kama mgeni unayesimama karibu na vibanda katikati ya uwanja, wakati wa tukio hilo?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 277,
+        "narrative": "Wazazi wako walizingatia chaguzi mbalimbali na wakashiriki matumaini yao ya furaha yako ya baadaye kabla ya utambulisho huu.",
+        "question": "Je, mtu aliyeketi upande wa kushoto anajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 278,
+        "narrative": "",
+        "question": "Wageni wawili wanaosimama karibu na dirisha wanajisikiaje kabla tu ya kukutana na mmiliki wa mali hiyo?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 279,
+        "narrative": "",
+        "question": "Mtu anayemwongoza mwenza wake wa chumba karibu na mlango wa jikoni anajisikiaje kwa wakati huu?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 280,
+        "narrative": "Baada ya miongozo mipya ya afya kutolewa, kila mtu aliombwa kubadilisha njia zao za kawaida za kusalimiana na wenzao.",
+        "question": "Mtu aliyevaa koti la beige karibu na madirisha anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 281,
+        "narrative": "Umejiunga hivi karibuni na shule inayojulikana kwa ukali wake wa kitaaluma na mchakato wake mgumu wa uandikishaji.",
+        "question": "Unajisikiaje wakati wa tukio hili?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 282,
+        "narrative": "Hivi karibuni ulisikia kuhusu kitindamlo hiki kutoka kwa rafiki aliyependekeza ujaribu kitu kipya.",
+        "question": "Unajisikiaje unapopokea zawadi yako uliyochagua?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 283,
+        "narrative": "",
+        "question": "Mtu anayenyosha mkono kuchukua vyombo upande wa karibu wa meza anajisikiaje wakati chakula kinapoanza?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 284,
+        "narrative": "Hivi karibuni ulijifunza kuhusu vyakula vya kieneo kutoka kwa wenyeji na ulitaka kujaribu kitu ambacho hukuwahi kula hapo awali.",
+        "question": "Mtu anajisikiaje anapokutana na chakula hicho kwa mara ya kwanza?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 285,
+        "narrative": "",
+        "question": "Mgeni aliyeketi mwisho wa meza anajisikiaje katika dakika chache kabla ya chakula kuanza?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 286,
+        "narrative": "",
+        "question": "Waendesha baiskeli walioko katikati ya barabara wanajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 287,
+        "narrative": "Wasanii walitumia siku kadhaa wakifanya mazoezi na kuratibu pamoja kwa ajili ya wakati huu.",
+        "question": "Mwanadansi aliye karibu zaidi na katikati anajisikiaje wakati wa tukio?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 288,
+        "narrative": "Watu hao wawili hawakuwa wamekutana kabla ya ziara hii, na hakukuwa na uhusiano wala historia yoyote kati yao.",
+        "question": "Je, mwanamke aliyekuwa kaunta anajisikiaje baada ya kuchapisha kuhusu mfanyakazi mtandaoni?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 289,
+        "narrative": "Ulialikwa kurekodi tukio hili kwa ajili ya familia. Sherehe imeisha hivi karibuni, na baadhi ya wageni wameanza kuondoka.",
+        "question": "Je, mtu anayeshika kamera kwenye njia ya katikati anajisikiaje anapotekeleza jukumu lake baada ya sherehe?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 290,
+        "narrative": "Uliwasili mapema kwa miadi yako, ukiwa na matumaini kwamba uchunguzi huo utasaidia kudhibiti tatizo la kiafya linalojirudia.",
+        "question": "Unajisikiaje kihisia unapongoja wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 291,
+        "narrative": "",
+        "question": "Je, mwanamke aliyeketi mbele, akiwa ameuweka mkono wake kwenye bega la mwanaume, anajisikiaje kwa wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 292,
+        "narrative": "Sera ya kampuni haitoi chaguzi za kuchakata tena chupa za plastiki ofisini, hivyo wafanyakazi wanapaswa kufuata kanuni zilizopo za utupaji taka.",
+        "question": "Je, mtu aliyeko karibu na pipa la takataka anajisikiaje wakati huu?",
+        "answer": "kinyaa",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 293,
+        "narrative": "",
+        "question": "Unajisikiaje unapopewa nguo mpya?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 294,
+        "narrative": "Ulipanga kuhifadhi chakula chochote cha ziada kwa ajili ya baadaye.",
+        "question": "Unajisikiaje baada ya kukabidhiwa chombo hicho?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 295,
+        "narrative": "Awali, kila mtu aliarifiwa kuhusu masharti ya mavazi ya bwawa.",
+        "question": "Je, mtu aliye mbele anajisikiaje kabla ya kuingia kwenye bwawa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 296,
+        "narrative": "Umejiwekea bajeti binafsi kwa usiku wa leo na unataka kujaribu kitu kipya.",
+        "question": "Unajisikiaje unapofanya uamuzi huu?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 297,
+        "narrative": "Darsa iko karibu kuanza, tukifuata desturi inayosisitiza heshima na umakini.",
+        "question": "Mwanafunzi aliyeketi karibu na dirisha anajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 298,
+        "narrative": "Awali, ulikuwa umechelewa kwa miadi muhimu na ulijadili kama usubiri au ukimbie kuvuka.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 299,
+        "narrative": "Familia haikuwa imeonana ana kwa ana kwa miezi kadhaa kutokana na kuishi katika miji tofauti na ratiba zao kuwa na shughuli nyingi.",
+        "question": "Mtu mzima aliye upande wa kulia wa sofa anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 300,
+        "narrative": "",
+        "question": "Unahisi hisia gani unapotazama picha wakati wa maonyesho?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 301,
+        "narrative": "Umefika hivi karibuni kutoka mji mwingine, na familia yako bado haijajua taratibu wala matarajio ya mahali hapa.",
+        "question": "Mtoto aliyevaa gauni la mistari anajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 302,
+        "narrative": "Mtu aliyeketi karibu na dirisha alikuwa amepokea habari muhimu kutoka kwa mwanafamilia muda mfupi uliopita.",
+        "question": "Mwanaume aliyeko karibu na dirisha anajisikiaje wakati wa mazungumzo yake ya simu?",
+        "answer": "mshangao",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 303,
+        "narrative": "Hakuna mmoja kati yao aliyewahi kukutana au kuzungumza kabla ya mkutano huu.",
+        "question": "Ni hisia gani mwanaume aliyeketi na fimbo anazopitia wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 304,
+        "narrative": "Ulikuwa na wasiwasi kama ilikuwa sahihi kuwasiliana, lakini jambo hilo lilikuwa la dharura na halingeweza kusubiri hadi asubuhi.",
+        "question": "Unajisikiaje kabla ya simu kufanyika?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 305,
+        "narrative": "Wasichana hawa walifanya uamuzi hivi karibuni kujaribu kuvuta vape pamoja baada ya kusikia kuhusu hilo mtandaoni.",
+        "question": "Je, msichana aliye katikati anajisikiaje?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 306,
+        "narrative": "Ulipokea simu iliyokuarifu kuhusu hali mbaya ya mume wako na ukaja licha ya saa kuwa ya usiku sana, ukiwa na matumaini ya kuruhusiwa kuingia.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 307,
+        "narrative": "Kabla ya kuingia darasani, ulikumbuka ushauri wa familia yako kuhusu kuonyesha heshima kwa walimu.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 308,
+        "narrative": "Awali, wewe na marafiki zako mlifanya uamuzi wa kuandaa shughuli ya kufurahisha baada ya kumaliza chakula cha mchana pamoja.",
+        "question": "Je, mtu aliye katikati, ambaye yuko angani, anajisikiaje wakati wa kuruka kwake?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 309,
+        "narrative": "Umehama hivi karibuni kwenda jiji jipya na polepole unakutana na watu kupitia marafiki wa pamoja.",
+        "question": "Unajisikiaje baada ya salamu hii ya awali?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 310,
+        "narrative": "Wewe na wengine mmekuwa mkisubiri pamoja ishara ya kuvuka, mkizingatia kufika mahali mnapokwenda kwa wakati.",
+        "question": "Mtu anayechukua hatua mbele ya kundi anajisikiaje wakati anaamua kusonga mbele?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 311,
+        "narrative": "Umerejea kazini hivi karibuni baada ya kuwa mbali kwa miezi kadhaa kutokana na sababu za kibinafsi.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 312,
+        "narrative": "Hivi karibuni uliamua kutembelea eneo maarufu linalojulikana kwa vyakula halisi vya Cajun baada ya kusikia mapendekezo kutoka kwa marafiki.",
+        "question": "Unajisikiaje kabla tu ya kuonja chakula chako?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 313,
+        "narrative": "Hivi karibuni uliamua kujaribu shughuli mpya na kikundi.",
+        "question": "Unajisikiaje wakati wa kushiriki?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 314,
+        "narrative": "Kikundi hicho kilikuwa kimefanya kazi pamoja hivi karibuni kwenye jukumu fulani, na wanafunzi hawakufahamiana vizuri.",
+        "question": "Mwanafunzi anayeketi karibu na mbele, ambaye mguu wake uko karibu zaidi na dawati, anajisikiaje baada ya mazungumzo ya hivi karibuni?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 315,
+        "narrative": "Mwanamke aliondoka nyumbani mapema ili kuhakikisha hatachelewa kwenye mkutano, akitumaini kupata muda wa utulivu wakati wa safari yake.",
+        "question": "Je, mwanamke aliyeketi kwenye kiti cha katikati anajisikiaje kwa wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 316,
+        "narrative": "Mlikuwa mmejadiliana awali kuhusu matarajio yenu ya kujenga uhusiano wa kina zaidi na mkakubaliana kuchukua mambo taratibu.",
+        "question": "Unajisikiaje wakati huu unaoonyeshwa?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 317,
+        "narrative": "Ulihangaika mapema kuhusu kushindwa na ukaamua kuandaa majibu mbadala.",
+        "question": "Unajisikiaje wakati mtihani unaendelea?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 318,
+        "narrative": "",
+        "question": "Unahisi hisia gani wakati Bw. Namida, aliyeketi karibu na mtoto wako wa mbwa, yupo wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 319,
+        "narrative": "Uliombwa mapema na marafiki wa karibu utoe hotuba muhimu kwa niaba yao katika sherehe hii.",
+        "question": "Unajisikiaje kabla hujaanza hotuba yako?",
+        "answer": "hofu",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 320,
+        "narrative": "Kabla ya kufika, uliamua kujipa changamoto kwa kuhudhuria darasa la MMA la leo.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 321,
+        "narrative": "Ulikuwa umehamia hivi karibuni katika nchi mpya yenye tamaduni tofauti.",
+        "question": "Unajisikiaje wewe, mwanamke uliyeketi kwenye kaunta, katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 322,
+        "narrative": "Dereva anawajibika kufuata kanuni za jiji, na ukiukaji wowote unaofanywa na abiria unaweza kusababisha faini kwa dereva.",
+        "question": "Dereva aliye nje ya gari anajisikiaje katika wakati huu?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 323,
+        "narrative": "Ulikuwa unajua kwamba kushiriki taarifa nyeti kunaweza kuathiri sifa yako na imani ambayo wengine walikuwa wamekupa.",
+        "question": "Unajisikiaje baada ya kupokea bahasha mara tu baada ya mazungumzo haya?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 324,
+        "narrative": "Mzazi alikuwa amekuwa na msongo wa mawazo kuhusu kazi mapema siku hiyo. Kosa dogo lilitokea bila kukusudia na lilitokea wakati mtoto alikuwa anajaribu kusaidia.",
+        "question": "Mtu anayeketi mezani anajisikiaje baada ya wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 325,
+        "narrative": "",
+        "question": "Mtu aliyeko kwenye jukwaa la uongozaji anajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 326,
+        "narrative": "Ulikuwa na hamu ya kujua maana ya vitu hivyo na ukatafuta ufafanuzi kutoka kwa wale wanaojua asili yake.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 327,
+        "narrative": "Ulitumia muda kuchunguza chaguo za malezi ya watoto za hapa na ukaichagua kituo hiki.",
+        "question": "Unajisikiaje unapopiga magoti kando ya mtoto katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 328,
+        "narrative": "",
+        "question": "Mwanaume aliye upande wa kushoto kabisa, aliyesimama karibu na mahali pa moto, anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 329,
+        "narrative": "Bibi yako alikuwa amepanga safari hii kwa siku kadhaa licha ya kujua kwamba hali ya hewa ingeweza kuwa mbaya.",
+        "question": "Bibi anajisikiaje kwa sasa?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 330,
+        "narrative": "",
+        "question": "Mtu anayeketi kwenye ukingo wa mbele wa meza ya kahawa anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 331,
+        "narrative": "",
+        "question": "Mtu aliye upande wa kulia anajisikiaje wakati huo akiwa ndani ya lifti?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 332,
+        "narrative": "",
+        "question": "Mtu aliyeketi miongoni mwa safu ya mbele ya waabudu anajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 333,
+        "narrative": "Ulikuwa na wasiwasi wa kufika kwa wakati kwa miadi muhimu. Msafiri hakuwa akifahamu eneo hilo na alihitaji mwongozo.",
+        "question": "Unajisikiaje baada ya kumpita msafiri katika kituo chenye shughuli nyingi wakati huo?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "Je, mwanamke mdogo aliyeketi kwenye sofa anajisikiaje wakati huu akiwa na mama yake?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 335,
+        "narrative": "Umefika mjini hapa hivi karibuni.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 336,
+        "narrative": "Mapema siku hiyo, ulianza kuwa na wasiwasi kuhusu afya ya mtoto wako na ukaamua kufuata ushauri wa daktari.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 337,
+        "narrative": "Wote wawili wamehudhuria madarasa pamoja kwa miezi kadhaa na wamekuwa marafiki wa karibu katika kipindi hicho.",
+        "question": "Mwanafunzi aliye upande wa kulia anajisikiaje mara tu baada ya mazungumzo haya?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 338,
+        "narrative": "Hapo awali, ulionyesha nia ya kimapenzi kwake, lakini yeye hakurudisha hisia hizo.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 339,
+        "narrative": "Umekuwa ukitaka kuimarisha uhusiano wako na mfanyakazi mwenzako na umekuwa ukifikiria kuwasiliana naye nje ya mahali pa kazi kwa muda sasa.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 340,
+        "narrative": "Umetumia wiki kadhaa kujiandaa na kikundi chako kwa maandamano haya ya hadhara.",
+        "question": "Unajisikiaje wewe, ukiwa kiongozi wa maandamano ukiwa umevaa koti jeupe, muda mfupi kabla ya tukio kuanza?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 341,
+        "narrative": "Mapema katika siku, waandaaji wa tukio walisisitiza umuhimu wa usalama wa umati kutokana na hatari zinazoweza kutokea.",
+        "question": "Je, mtu aliyevaa koti la usalama aliye mbele anajisikiaje anaposimama karibu na umati wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 342,
+        "narrative": "Ulikumbuka kwamba unahitaji pesa za ziada kwa ajili ya tukio la shule linalokuja na ukaamua kulitaja leo.",
+        "question": "Unajisikiaje unapotoa ombi lako?",
+        "answer": "hamu",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 343,
+        "narrative": "Mwanamke huyo amekuja hapa akitumaini kupata kitabu maalum kwa ajili ya kazi anayotarajia kufanya.",
+        "question": "Je, mtu anayesimama katikati ya njia anajisikiaje kwa sasa?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 344,
+        "narrative": "Ulipanda treni baada ya siku ndefu ya kusafiri, ukitarajia kupata sehemu ya kustarehe kwa ajili ya safari.",
+        "question": "Unajisikiaje, ukiwa umeketi sakafuni kwenye korido, katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 345,
+        "narrative": "",
+        "question": "Je, wawili walio upande wa kushoto wanajisikiaje wanaposimama kando ya benchi wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 346,
+        "narrative": "Hivi karibuni ulijifunza kuhusu ishara za heshima za jadi zinazotumiwa katika maeneo ya umma.",
+        "question": "Unajisikiaje mara tu baada ya kufuata adabu uliyoikumbuka?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 347,
+        "narrative": "",
+        "question": "Mtu anayesimama karibu na mzee anajisikiaje katika wakati huu?",
+        "answer": "huruma",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 348,
+        "narrative": "Kikundi kinajumuisha wanafunzi wenzangu ambao wamesoma kozi moja inayolenga masomo ya filamu.",
+        "question": "Wanafunzi walioketi mezani wanaweza kujisikiaje katika wakati huu?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 349,
+        "narrative": "Maafisa walijibu hivi karibuni tukio lililohusisha kitu cha thamani kilichopotea.",
+        "question": "Maafisa wawili na mwanamke aliyeketi mezani wanajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 350,
+        "narrative": "Leo unaanza kustahiki kushiriki katika uchaguzi wa kitaifa kwa mara ya kwanza.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 351,
+        "narrative": "Haukuweza kuhudhuria sherehe rasmi ya mahafali kwa sababu ulikuwa unapata nafuu kutokana na ugonjwa, na mipango ilifanywa ili upokee diploma yako kando.",
+        "question": "Unajisikiaje katika huu wakati wa faragha na mkuu wa shule?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 352,
+        "narrative": "Mwanaume huyo amejiandaa mapema kujadili maendeleo ya mradi wake wa hivi karibuni na anafahamu kwamba utendaji wake utapimwa katika mkutano huu.",
+        "question": "Je, mtu aliye upande wa kushoto anajisikiaje katika wakati huu wa mkutano?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 353,
+        "narrative": "Awali, uliona mnunuzi mwingine akiangusha kitu kwa bahati mbaya lakini hukukirudisha kwake.",
+        "question": "Unajisikiaje baada ya wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 354,
+        "narrative": "Ulikuwa umekuwa ukisubiri kwa nia ya kupata uzoefu wa kivutio hicho hivi karibuni, na hakuna matangazo mapya kuhusu taratibu za foleni yaliyotolewa.",
+        "question": "Unajisikiaje wakati mfanyakazi anapopita karibu yako?",
+        "answer": "hasira",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 355,
+        "narrative": "Awali, nyote wawili mlikubaliana kujaribu kugawana vyakula ili kupata ladha mpya pamoja.",
+        "question": "Unajisikiaje unapozungumza na mtu aliye upande wa kulia kwa sasa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 356,
+        "narrative": "Awali, uliamua kuchangia kitu cha maana ulichokipata nje.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 357,
+        "narrative": "",
+        "question": "Rafiki yako anajisikiaje anaposimama kando yako kwenye makutano haya yenye shughuli nyingi?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 358,
+        "narrative": "Wewe na wenzako darasani mna uhusiano wa kirafiki. Hapo awali, rafiki yako alitoa maoni chanya kuhusu mtindo wako mpya wa nywele.",
+        "question": "Unajisikiaje wakati huu unapofika?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 359,
+        "narrative": "Hapo awali, ulitaja kutaka kujifunza ujuzi huu mwenyewe. Mzazi wako ametenga muda leo ili akusaidie kufanya mazoezi.",
+        "question": "Unajisikiaje unapopokea mwongozo kwa sasa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 360,
+        "narrative": "Baadhi ya wanafamilia walikuwa wamepitia changamoto hivi karibuni kabla ya mkutano huu, jambo ambalo liliwachochea wengine kutoa faraja ya kihisia na kiroho walipowasili.",
+        "question": "Mtu anayeingia chumbani anajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 361,
+        "narrative": "Uko njiani kwenda kwenye mkutano muhimu wa asubuhi na una dakika chache tu kabla haujaanza.",
+        "question": "Unajisikiaje, wewe ambaye unamkabili mtu mwingine, mara tu baada ya wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 362,
+        "narrative": "Awali, uliweka mizigo yako kwenye mkoba kwa ajili ya safari ijayo.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 363,
+        "narrative": "",
+        "question": "Mwanafunzi aliyevaa koti la jeans anajisikiaje anapozungumza na mwanafunzi anayebeba begi la mgongoni?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 364,
+        "narrative": "Umejiandaa na seti yako mapema na unatumaini kujitofautisha na wasanii wengine.",
+        "question": "Unajisikiaje ukiwa jukwaani wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 365,
+        "narrative": "Umefundishwa kwamba kuonyesha heshima kwa wazee ni jambo muhimu katika familia yenu, hasa wakati wa ziara rasmi.",
+        "question": "Unajisikiaje kabla ya kuwasalimu wazee walioketi?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 366,
+        "narrative": "Uamuzi huo ulikuwa na athari kubwa kwa jinsi marekebisho ya baadaye yangeweza kufanywa.",
+        "question": "Je, mwanamke aliyevaa sweta ya waridi anajisikiaje wakati wa tukio hili?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 367,
+        "narrative": "",
+        "question": "Je, mtu aliye upande wa kushoto anajisikiaje anapofanya uamuzi wa kumvuta mtu aliye karibu naye karibu zaidi?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 368,
+        "narrative": "Awali, walihakikisha vifaa vyote hatari vimefungwa salama.",
+        "question": "Wanajisikiaje wanapoanza doria yao chini ya vikwazo hivi?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 369,
+        "narrative": "Hapo awali, uliwajulisha wanafamilia wako kwamba unapendelea kutokunywa pombe kwa sababu zako binafsi. Baadhi ya ndugu walitengeneza vinywaji maalum kwa ajili ya tukio hilo.",
+        "question": "Unajisikiaje mara tu baada ya kukataa kinywaji alichokutolea?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 370,
+        "narrative": "Wazee wana mamlaka kubwa katika mila za familia.",
+        "question": "Mtu anayeketi karibu zaidi na wazee anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 371,
+        "narrative": "",
+        "question": "Kila mkimbiaji aliyeko kwenye mstari wa kuanzia anajisikiaje kabla tu ya mbio kuanza?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 372,
+        "narrative": "",
+        "question": "Je, mwanamke aliyeketi kwenye sofa lenye michoro anajisikiaje kwa sasa?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 373,
+        "narrative": "",
+        "question": "Je, mtu anayehudumia chakula mbele kwenye picha anajisikiaje wakati huu unavyotokea?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 374,
+        "narrative": "Mzazi alikusudia kukaa ndani wakati wewe ulisalia nje. Uliombwa usubiri ukiwa na vitafunwa na magazeti ili ujiburudishe.",
+        "question": "Unajisikiaje unapongoja wakati huu?",
+        "answer": "huzuni",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 375,
+        "narrative": "Unapanga kumpa mwanafamilia wa karibu zawadi hii.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 376,
+        "narrative": "",
+        "question": "Mtu anayevaa bangili ya rangi za upinde wa mvua anajisikiaje anaposimama karibu na makabati kabla ya mchezo?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 377,
+        "narrative": "Ulihisi kuumwa kabla tu ya darasa lako linalofuata na ukajua unahitaji msaada haraka.",
+        "question": "Unajisikiaje wakati huo kwenye korido unapokuwa unaelekea chooni?",
+        "answer": "maumivu",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 378,
+        "narrative": "Awali, mtoto alibishana na ndugu zake na akahisi wasiwasi kuhusu kile kinachoweza kutokea baadaye.",
+        "question": "Mtoto anajisikiaje kihisia kwa wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 379,
+        "narrative": "Mamlaka za mitaa hivi karibuni zimeweka sheria kali zaidi za kupunguza matumizi ya plastiki za matumizi mara moja, na faini kwa kutotii zimeongezeka.",
+        "question": "Mnunuzi aliye na mfuko wa manjano anajisikiaje?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 380,
+        "narrative": "",
+        "question": "Je, mtu anayezungumza na mwanamke anayeshika daftari karibu na katikati anajisikiaje wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 381,
+        "narrative": "Zamu za hivi karibuni zimekuwa na shughuli nyingi kutokana na wingi wa wageni.",
+        "question": "Mhudumu anajisikiaje baada ya wateja kuondoka kwenye meza hii?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 382,
+        "narrative": "",
+        "question": "Je, mtu aliyeketi karibu zaidi na katikati ya ngazi anajisikiaje katika wakati huu?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 383,
+        "narrative": "Ulipanga miadi hii ili kujifunza zaidi kuhusu afya yako kwa ujumla na sababu zinazoweza kuongeza hatari.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 384,
+        "narrative": "Mkutano huo unajumuisha watu wanaofahamiana kutoka kwenye kikundi cha mitandao, na mwanamke huyo alikusudia kufanya mwonekano wa kukumbukwa.",
+        "question": "Mtu anayepita katikati ya chumba anajisikiaje wakati wa kuingia?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 385,
+        "narrative": "Ulikuja kwenye miadi hii kwa sababu ya dalili za hivi karibuni ambazo zimekuwa zikiendelea na kukusumbua.",
+        "question": "Unajisikiaje mara tu baada ya wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 386,
+        "narrative": "Mapema leo, uliamua kutomsaidia mwanafunzi mwenzako anayepata shida ya kutembea.",
+        "question": "Mwanafunzi anayesimama kwenye njia ya watembea kwa miguu anajisikiaje baada ya tukio nje ya jengo?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "Mtu anayesimama karibu na taa anajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 388,
+        "narrative": "Unawatembelea marafiki ambao hujawaona kwa muda mrefu.",
+        "question": "Mwanaume anayekaa upande wa kulia anajisikiaje kwa sasa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 389,
+        "narrative": "",
+        "question": "Kundi lililoketi juu ya zulia za kusalia linajisikiaje katika wakati huo?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 390,
+        "narrative": "Mapema asubuhi, wapita njia walilazimika kupita kwenye mitaa kadhaa wasiyoifahamu ili kufika kwenye unakoelekea.",
+        "question": "Dereva wa gari la buluu anajisikiaje anapowasiliana na watembea kwa miguu wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 391,
+        "narrative": "Mwanamke mkubwa ni bibi yako, na alikua akitumia kijiko hiki katika jikoni ya familia yao alipokuwa anakua.",
+        "question": "Unajisikiaje wakati huu unapofika?",
+        "answer": "kicho",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 392,
+        "narrative": "Ulichukua kuzingatia kuheshimu mila za mababu huku pia ukitaka jina la mtoto lihisi kuwa la kipekee na lenye maana kwako.",
+        "question": "Unajisikiaje katika wakati huu?",
+        "answer": "kuridhika",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 393,
+        "narrative": "Ulikuwa umetoka na marafiki, mkikusudia kushiriki muda wa utulivu pamoja baada ya wiki yenye shughuli nyingi.",
+        "question": "Mtu aliye ardhini anajisikiaje katika wakati huu?",
+        "answer": "aibu",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 394,
+        "narrative": "",
+        "question": "Je, mtu aliye katikati anajisikiaje katika wakati huu?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 395,
+        "narrative": "",
+        "question": "Mtu anayesimama nyuma ya kabati la chakula anajisikiaje kabla tu ya kushiriki video na wafuasi wake?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 396,
+        "narrative": "Wafanyakazi hao wawili walikubaliana awali kushughulikia suala la siri pamoja.",
+        "question": "Mtu anayesimama karibu na mlango ulio wazi anajisikiaje katika wakati huu?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 397,
+        "narrative": "Wewe na mfanyakazi wa hifadhi hamjawahi kukutana kabla ya ziara hii. Mwanzoni ulikusudia kuasili mnyama leo baada ya kuzingatia chaguo zako.",
+        "question": "Unajisikiaje kwa sasa?",
+        "answer": "furaha",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 398,
+        "narrative": "Wewe na yule anayesimama mmefanya kazi pamoja kwa miaka kadhaa, na hivi karibuni umepitia msiba wa kibinafsi nje ya kazi.",
+        "question": "Unajisikiaje mara tu baada ya kusalimiwa na mwenzako aliyesimama?",
+        "answer": "afueni",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 399,
+        "narrative": "Rafiki yako alikuambia hivi karibuni kwamba wanachukulia matukio madogo fulani kama ishara za bahati nzuri.",
+        "question": "Unajisikiaje hivi sasa mara tu baada ya mazungumzo haya?",
+        "answer": "burudani",
+        "english_ver_answer": "amusement"
+    }
+]

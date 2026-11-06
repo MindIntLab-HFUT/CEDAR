@@ -1,0 +1,6 @@
+openai>=1.0
+requests
+pillow
+tqdm
+# Optional: only needed for local inference (--mode vllm)
+# vllm

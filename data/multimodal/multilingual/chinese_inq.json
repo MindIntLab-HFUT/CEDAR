@@ -1,0 +1,2802 @@
+[
+    {
+        "id": 0,
+        "narrative": "你已经为这个节目排练了好几个星期，目的是为了向一项重要的文化传统致敬。",
+        "question": "当那个不请自来的人出现在附近时，你的感受是什么？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 1,
+        "narrative": "在与管理层进行了长时间的谈判却未能带来改善之后，你和同事们决定共同采取直接行动。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 2,
+        "narrative": "",
+        "question": "坐在桌子尽头的那个孩子第一次品尝kagemand时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 3,
+        "narrative": "你专程来到市场，就是为了尝试朋友们最近推荐的菜肴。",
+        "question": "你此刻感觉如何？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 4,
+        "narrative": "就在几天前，你还在为更冷的天气做准备，原以为寒冷会持续更久。",
+        "question": "坐在风扇旁边的人在经历这种温度变化时感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 5,
+        "narrative": "保姆经常在你放学后照顾你，而你的父母刚刚下班回家。",
+        "question": "此刻坐在沙发上的孩子感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 6,
+        "narrative": "那个搬箱子的人是新来的。",
+        "question": "那位靠在门旁墙上的人当时看着时，心里是什么感受？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 7,
+        "narrative": "早些时候，有些人赶着赴约，必须迅速决定如何前往目的地。",
+        "question": "斑马线右前方的那个人此刻感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 8,
+        "narrative": "",
+        "question": "在父母指出你的行为之后，你有什么感受？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 9,
+        "narrative": "你上周花时间通过调研公司并针对特定职位修改简历来做准备。",
+        "question": "在这个活动期间你有什么感受？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 10,
+        "narrative": "在来支持难民项目之前，你参加了一个社区清洁活动，帮助改善当地环境。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 11,
+        "narrative": "您是在最近确诊后被转介到这里的。",
+        "question": "在这次对话中你感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 12,
+        "narrative": "你正在考虑符合你长期预算和生活方式需求的选项。",
+        "question": "此刻与销售人员交流时，您的感受如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 13,
+        "narrative": "",
+        "question": "你对这次活动有什么感受？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 14,
+        "narrative": "完成收割的截止日期临近，工人们已被告知，时间安排无法调整。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 15,
+        "narrative": "之前，大家决定放学后一起玩一个集体游戏。",
+        "question": "在树旁的那个孩子在开始寻找其他人之前数数时，感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 16,
+        "narrative": "早些时候，这位女士在看到你喜欢的风格后，临时决定帮你换个造型。",
+        "question": "靠近商店橱窗的那位女士此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 17,
+        "narrative": "他们当中有些人从小就认识，经常讨论新来的人可能会如何改变事情的常规发展。",
+        "question": "站在入口附近的人在进入这个空间时会经历哪些情感？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 18,
+        "narrative": "这次聚会是在一个月的每日斋戒和对这个特殊日子的期待之后举行的。",
+        "question": "在墓地大门附近的人们完成祈祷后，会经历哪些情感？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 19,
+        "narrative": "",
+        "question": "站在接待台前的那位男士在完成就诊前的行政手续时，心情如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 20,
+        "narrative": "你比预定时间提前到了，希望在朋友的聚会上留下好印象。",
+        "question": "在被打招呼之前，你有什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 21,
+        "narrative": "之前大家都同意一起玩游戏，轮流当找的人。",
+        "question": "那个躺在沙发上的孩子在开始寻找其他人之前，心里会有什么样的情感？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 22,
+        "narrative": "你们是一起到达的，提前计划好了这次出游，作为一种联络感情、体验新事物的方式。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 23,
+        "narrative": "",
+        "question": "那些聚集在椅子旁和站在桌边的人，在等待活动开始时心情如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 24,
+        "narrative": "那名男子正一起前往一个重要的约会。",
+        "question": "此刻站在火车窗边的那个人心情如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 25,
+        "narrative": "你和之前通过当地学校活动认识的其他家长一起参加了这次活动。",
+        "question": "在了解这些好处的过程中，你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 26,
+        "narrative": "",
+        "question": "那个站在椅子上的女孩在够衣柜顶上的玩具时感觉怎么样？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 27,
+        "narrative": "",
+        "question": "此刻站在左侧墙边的孩子们感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 28,
+        "narrative": "组长最近协助组织了社区活动。",
+        "question": "在向最年长的参与者和小组负责人打招呼之前，左边的那位女士感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 29,
+        "narrative": "",
+        "question": "你在观察这种情况时有什么感受？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 30,
+        "narrative": "在顺利完成了一门严格的航空课程后，你即将与一支新结识的机组成员一起开始你的第一次任务。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 31,
+        "narrative": "在参加演出之前，你已经期待了好几个星期，还带了一个激光笔来提升你的观赏体验。",
+        "question": "你在这一刻感受到哪些情绪？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 32,
+        "narrative": "",
+        "question": "刚进房间后，那个穿白裙子、站在镜子旁边的女人此刻感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 33,
+        "narrative": "",
+        "question": "此刻站在圈子里的人们感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 34,
+        "narrative": "他们刚一起抵达，需要稍作整理后再继续他们的行程。",
+        "question": "背着背包、站在水槽前准备洗手的那位女士，此刻心情如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 35,
+        "narrative": "这位女士今天打算来这里购物，因为她听说最近的政府政策变化可能会影响价格。",
+        "question": "此刻，摊位前的那位女士感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 36,
+        "narrative": "",
+        "question": "前景中的那位女士在迎接她的新同事时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 37,
+        "narrative": "你事先已经被告知了正式礼仪的重要性，以及要正确称呼每个人。",
+        "question": "你，坐在最靠近窗户的位置，在正式向长辈发言前，心里有什么感受？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 38,
+        "narrative": "你已经躲避执法部门好几天了，但最近在权衡后果后，决定自首。",
+        "question": "在和警官说话之前，你感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 39,
+        "narrative": "你的父母邀请你参加这个聚会，希望与你分享一个有意义的传统。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 40,
+        "narrative": "你受邀参加一次专业摄影拍摄，照片可能会用于宣传资料或个人品牌推广。",
+        "question": "你在这一刻感受到哪些情绪？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 41,
+        "narrative": "你因为赶着去参加一个重要的约会而很匆忙。没有人目睹发生了什么。",
+        "question": "活动结束后你感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 42,
+        "narrative": "你记得曾经学习过一些强调尊敬长辈的传统习俗。",
+        "question": "你此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 43,
+        "narrative": "",
+        "question": "在烟花绽放的这一刻，围成一圈站在周围的每个人心里都有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 44,
+        "narrative": "",
+        "question": "你此刻感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 45,
+        "narrative": "",
+        "question": "此刻，空中的那个人感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 46,
+        "narrative": "你被一个喜欢招待客人、并且允许宠物上家具的人邀请去了他家。",
+        "question": "当你被邀请坐下后，站在沙发旁边时，你有什么感觉？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 47,
+        "narrative": "这些人是同事，最近因为一项重要的工作任务发生了激烈的分歧。",
+        "question": "穿粉色毛衣的女人在这一刻经历了哪些情感？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 48,
+        "narrative": "你最近刚到这个小镇，正在和这些当地人见面，而你在家时用的是另一种咖啡制作方式。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 49,
+        "narrative": "之前，你了解到考试成绩会对你的最终成绩产生重大影响，因此感到有责任保持公平。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 50,
+        "narrative": "早些时候，左边的那个人故意少给顾客加油，希望没人会注意到。",
+        "question": "柜台后面的那个人在那一刻是什么感受？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 51,
+        "narrative": "这个团体由同事们组成，他们因庆祝最近的成就而聚在一起参加一场正式的晚宴。",
+        "question": "在等待他们分配座位的时候，你感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 52,
+        "narrative": "",
+        "question": "穿着蓝色衬衫的孩子在长凳下保持姿势时感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 53,
+        "narrative": "之前，你们家决定捐赠一些物品。",
+        "question": "站在桌子中央的那个人在参与这一刻时是什么感受？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 54,
+        "narrative": "刚才有人提到感到不舒服。",
+        "question": "坐在桌前穿蓝色连帽衫的那个人在这一刻之后的感受是怎样的？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 55,
+        "narrative": "你和当地村民来自不同的文化背景。",
+        "question": "在参与传统交流后，你有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 56,
+        "narrative": "两人最近同意见面。",
+        "question": "左边的女人在这次对话中感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 57,
+        "narrative": "申请人已经花时间准备驾驶考试。",
+        "question": "站在柜台前的那个人此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 58,
+        "narrative": "",
+        "question": "前排中间那个人在这些时刻感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 59,
+        "narrative": "以前来这里时，你常常需要等候才能入座。这次，你打算一到就自己选座位。",
+        "question": "你觉得我们坐下来聊聊之后感觉怎么样？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 60,
+        "narrative": "",
+        "question": "此刻，那个扎着辫子的女孩感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 61,
+        "narrative": "早些时候，晚餐结束后，大家都希望能帮忙收拾。",
+        "question": "坐在凳子上、靠近碎盘子的那个孩子，在这些事情发生后感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 62,
+        "narrative": "",
+        "question": "穿着黄色衬衫的孩子在这一刻经历了哪些情感？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 63,
+        "narrative": "客人们原本只期待一张普通的照片来纪念这个时刻。你被请来为大家捕捉一个瞬间。",
+        "question": "当这些嘉宾发现自己被拍成这样的照片后，他们的感受如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 64,
+        "narrative": "你因近期发生的一起事件被带来接受问询，并被告知不得与外界任何人联系。",
+        "question": "在这个活动期间你感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 65,
+        "narrative": "他们提前完成了作业，希望在下次会议前能够放松一下。",
+        "question": "此刻，坐在前台的人经历了哪些情绪？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 66,
+        "narrative": "你和一些你不认识的人在一起。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 67,
+        "narrative": "这两个人是多年的朋友，其中一位希望在这次拜访中给另一位留下深刻印象。",
+        "question": "在朋友拒绝了这个提议后，离花瓶最近的那个人感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 68,
+        "narrative": "有些参与者是第一次见面，而其他人则是因为之前的课程而相互认识。",
+        "question": "在尝试第一次射击之前，你会经历哪些情绪？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 69,
+        "narrative": "",
+        "question": "池边的那群人在准备参与当天的活动时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 70,
+        "narrative": "你最近在听到社区里其他人分享的积极经历后，决定尝试一种传统疗法。",
+        "question": "在这次会面中，当你站在对面的从业者面前时，你感受到哪些情绪？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 71,
+        "narrative": "你最近从一位有经验的教练那里学到了重要的安全技巧和策略。",
+        "question": "在河流旅程的这一段，每个筏上的人有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 72,
+        "narrative": "你早就知道今晚看台上有球探。",
+        "question": "此刻，作为靠近界外线的投手，你有什么感受？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 73,
+        "narrative": "你之前听说有一项政策规定可以免费提供饮用水，所以你才提出要水。",
+        "question": "你在这一刻之后感觉怎么样？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 74,
+        "narrative": "这一刻标志着一个家庭传统的开始，这个传统会在特殊的聚会中被遵循。",
+        "question": "站在左边的年轻亲戚在这个传统仪式中感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 75,
+        "narrative": "",
+        "question": "站在那幅大型森林画旁的女人在和同事交谈时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 76,
+        "narrative": "经过数月的战略性联盟建设，你最近赢得了几位有影响力同事的支持。",
+        "question": "在这个时刻站在中央讲台上，你的感受是什么？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 77,
+        "narrative": "你刚刚目睹了一起盗窃案，并决定介入。",
+        "question": "你现在感觉怎么样？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 78,
+        "narrative": "有些人计划比平时更早完成他们的事务。",
+        "question": "这位带着两个孩子走路的女人在离开市场前感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 79,
+        "narrative": "这位年轻女子最近搬到了一个新城市，目前还不认识这里的任何人。",
+        "question": "站在离门最近的那位女士此刻感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 80,
+        "narrative": "在场的许多人为了这次聚会已经筹备了数月。",
+        "question": "站在大厅中央人群中的那个人在这个活动中感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 81,
+        "narrative": "你和你的同事们已经一起工作了好几年，最近得知可能会有裁员。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 82,
+        "narrative": "这名男子赶着去市里参加一个重要的会议，如果错过这趟火车，他的计划将会受到严重耽误。",
+        "question": "此刻把包放在门口的那个人是什么感受？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 83,
+        "narrative": "你负责维护安全和清洁，这是你工作职责的一部分。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 84,
+        "narrative": "",
+        "question": "在聚会开始前，站在壁炉旁的那位女士感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 85,
+        "narrative": "你最近刚到这个基地，今天是你第一次参加大型训练演习的日子。",
+        "question": "在培训即将开始时，离门最近的那个人感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 86,
+        "narrative": "许多患者依赖这家机构来持续管理慢性疾病。",
+        "question": "坐在桌子旁与服务提供者互动的那位男士感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 87,
+        "narrative": "早些时候，你考虑了天气预报，并担心在户外长时间保持舒适。",
+        "question": "那个人当时的感受是怎样的？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 88,
+        "narrative": "你在经过法律程序选中后抵达了法院，并在进入之前被告知了你的职责。",
+        "question": "在这个阶段，你的感受如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 89,
+        "narrative": "你记得最近关于因健康原因限制密切身体接触的建议。你要见的这位同事是你已经有几个星期没见的人。",
+        "question": "你现在感觉怎么样？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 90,
+        "narrative": "",
+        "question": "此刻站在蓝色汽车旁边的那个人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 91,
+        "narrative": "在参加之前，你曾希望有机会建立有意义的关系，尤其是和来自其他国家的人。",
+        "question": "在讨论开始时，你感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 92,
+        "narrative": "这位女士正要去见一位朋友，需要过马路才能到达目的地。",
+        "question": "此刻斑马线上的那个人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 93,
+        "narrative": "你已经做了充分的准备，希望这次机会能助你实现职业目标。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 94,
+        "narrative": "该患者在本院无已知病史，且为突发来院。",
+        "question": "穿着花卉手术服的那个人在参与这种情境时感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 95,
+        "narrative": "你和你的同学们最近组建了学习小组。",
+        "question": "在此刻探讨这些主题时，你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 96,
+        "narrative": "你和你的同事们关系融洽，彼此相处得很愉快。",
+        "question": "你现在感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 97,
+        "narrative": "",
+        "question": "这部分练习中，穿蓝色衣服的学生感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 98,
+        "narrative": "由于即将到来的检查，团队面临着尽快完成工作的压力。",
+        "question": "在容器翻倒后，离容器最近的那个人当时的感受是怎样的？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 99,
+        "narrative": "你最近设定了一个在国外工作和生活的目标，并花时间为申请过程做了准备。",
+        "question": "在互动之前，你会经历哪些情绪？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 100,
+        "narrative": "之前，你对品尝陌生的食物感到犹豫，但有个朋友鼓励你尝试新东西。",
+        "question": "你品尝过食物后感觉怎么样？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 101,
+        "narrative": "",
+        "question": "你在这次聚会中感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 102,
+        "narrative": "在进入房间之前，你已经考虑了多位候选人的资历，并根据之前的调研做出了决定。",
+        "question": "你此刻在审阅文件时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 103,
+        "narrative": "之前，你曾考虑过在网上分享你的市场经历。那些摊主并不知道你打算拍照。",
+        "question": "那些在蔬菜篮子旁边的小贩在被拍照后感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 104,
+        "narrative": "患者因突发呼吸困难而入院。",
+        "question": "此刻，病床上的病人感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 105,
+        "narrative": "在此之前，你们一家刚刚讨论完对约会的期望。",
+        "question": "你之后感觉怎么样？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 106,
+        "narrative": "",
+        "question": "右边那个人在第一次接触的这一刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 107,
+        "narrative": "许多与会者从不同的城市赶来，其中一些人是第一次参加这样的聚会。",
+        "question": "站在前排中间的那个人在活动期间感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 108,
+        "narrative": "",
+        "question": "右下角正在上菜的那个人在做这件事时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 109,
+        "narrative": "你在和你认识的人谈过之后安排了这次会面，并决定出于个人原因获取安眠药。",
+        "question": "你此刻感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 110,
+        "narrative": "自从乐队宣布新专辑以来，你和许多人一直在期待这场活动。",
+        "question": "观众在这场表演中有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 111,
+        "narrative": "今天早些时候，你注意到大家看起来特别疲惫，于是决定买晚餐回家，而不是自己做饭。",
+        "question": "此刻你把食物摆上桌时，心里有什么感觉？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 112,
+        "narrative": "你和其他孩子是同班同学，放学后经常一起玩耍。",
+        "question": "当你的雪球击中朋友的那一刻，你有什么感觉？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 113,
+        "narrative": "这是你第一次尝试这道菜。",
+        "question": "你品尝了食物后感觉怎么样？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 114,
+        "narrative": "这个团体提前一起计划了这次出游，并协调好时间，以便早早到达打球。",
+        "question": "在比赛开始前，穿粉色衬衫的女士经历了哪些情绪？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 115,
+        "narrative": "有一名学生计划在上课时间对同学恶作剧。",
+        "question": "站在桌子旁的学生在意识到发生了什么之后感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 116,
+        "narrative": "你正在和一位大学时期认识的朋友一起参观这个地方，之后还打算和其他人一起吃午饭。",
+        "question": "站在红叶之下，你有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 117,
+        "narrative": "",
+        "question": "被穿耳的人在这个过程中感觉如何？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 118,
+        "narrative": "长者和孩子们选择在这次祷告时留在外面。",
+        "question": "每个男人从大厅左侧进入时，心情如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 119,
+        "narrative": "",
+        "question": "当前排左侧椅子上的那个人在旁边的人主动接触时会有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 120,
+        "narrative": "",
+        "question": "坐在右边的那个人在等待是否会再次得到这个提议时，心情如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 121,
+        "narrative": "你邀请了你的朋友来家里，希望他们在做客时感到舒适。",
+        "question": "当有人让你坐到之前狗狗占据的位置时，你有什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 122,
+        "narrative": "这位成人和孩子之间有着亲密的家庭纽带，最近几个夜晚因为孩子难以入睡而变得格外艰难。",
+        "question": "此刻坐在椅子上的成年人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 123,
+        "narrative": "球员们已经为这次赛事准备了好几个星期，一直在作为一个团队进行训练，并研究对手的战术。",
+        "question": "前景中的球员在这一刻感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 124,
+        "narrative": "你和你的朋友约好在这里见面，一起首次体验一种传统的放松仪式。",
+        "question": "你刚收到这个物品时的感受是什么？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 125,
+        "narrative": "",
+        "question": "在你初次体验遵循东道主传统时，你的感受如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 126,
+        "narrative": "你发现自己开会要迟到了，而且还把自己的伞忘在了家里。",
+        "question": "此刻你伸手去拿伞时，心里有什么感觉？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 127,
+        "narrative": "",
+        "question": "离电梯门口最近的那个人在礼貌让行之后，心里有什么感受？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 128,
+        "narrative": "你和其他人通常只进行简短的交流，因为你们最近才开始一起工作。你们小组里还没有人主动进行过身体接触。",
+        "question": "被拥抱的人在桌子中央，在那个瞬间过后，他的感受是怎样的？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 129,
+        "narrative": "",
+        "question": "此刻，那个穿红色夹克的孩子在人行道上走在前面，他的心情是怎样的？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 130,
+        "narrative": "你乘坐国际航班抵达，并且事先选择携带食物和木制品入境，明知这些物品需要申报。",
+        "question": "当你带着自己的物品站在安检柜台前时，你有什么感受？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 131,
+        "narrative": "在今晚之前，你们俩已经讨论过用什么方式来象征你们持久的伙伴关系。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 132,
+        "narrative": "你决定来这里，是想品尝一道你以前来访时记得的传统菜肴。",
+        "question": "当你坐在前排的餐桌点餐时，你的感受是怎样的？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 133,
+        "narrative": "你快要迟到去参加一个重要的约会，已经找停车位找了好几分钟了。",
+        "question": "在最近那件事发生之后，你感觉怎么样？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 134,
+        "narrative": "坐在桌旁的这些女性自大学时期就彼此相识，每年都会重聚，以加深她们之间的情谊。",
+        "question": "这些坐在桌旁的女性在每年的聚会中有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 135,
+        "narrative": "",
+        "question": "当你经过排在扶梯左侧的通勤者时，你会有什么样的情绪？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 136,
+        "narrative": "之前，你和你的兄弟姐妹吵了一架，决定暗中报复他们。",
+        "question": "你现在感觉怎么样？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 137,
+        "narrative": "您正在接受居家医疗护理服务，以满足持续的健康需求。",
+        "question": "你在交流过程中感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 138,
+        "narrative": "刚才大家都同意在吃完零食后一起玩一个团体游戏。",
+        "question": "蓝衬衫男孩在这一刻经历了哪些情感？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 139,
+        "narrative": "这是你第一次正式学习这门新课程，你已经在家里预习了一些资料。",
+        "question": "在你第一次尝试完成分配任务时，你的感受如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 140,
+        "narrative": "你的家人为了一个你珍视多年的传统团聚在一起。",
+        "question": "你在这一刻感受到什么情绪？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 141,
+        "narrative": "这两个人都对吉他音乐有着共同的欣赏，并且各自从不同的音乐时代汲取了灵感。",
+        "question": "右边那个人在汲取灵感时可能会经历哪些情感？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 142,
+        "narrative": "之前，你花了几个小时等待有关家人状况的消息。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 143,
+        "narrative": "你与该供应商没有任何既往关系，而且你一直在专门为这次购买存钱。",
+        "question": "在交换即将发生之前，你的感觉是什么？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 144,
+        "narrative": "",
+        "question": "在舞台前方人群中的人们在这个活动中感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 145,
+        "narrative": "该校最近因达到国家标准而获得表彰。",
+        "question": "在大厅里就座的观众在经历这一刻时有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 146,
+        "narrative": "房间里的每个人都是同学或老师，彼此都认识。",
+        "question": "信号发生后，站在屏幕前中央的女孩感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 147,
+        "narrative": "那位年长的女士正在去附近朋友家拜访的路上。",
+        "question": "站在街道中央的那位女性在这一刻之后感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 148,
+        "narrative": "在为执业考试做了准备之后，你成功地达到了与客户合作所需的要求。",
+        "question": "在开始第一次理发后，你的感受是什么？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 149,
+        "narrative": "之前，你发现需要使用一张特殊的卡来付款，而你因为是第一次使用这个系统，不太确定该怎么操作。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 150,
+        "narrative": "你正和同学们坐在一起讨论私事时，突然发生了一件意外的事情，打断了你的注意力。",
+        "question": "此刻之后，坐在中间的学生感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 151,
+        "narrative": "之前，你打算收集可回收物来赚点外快。",
+        "question": "你在这次交流中感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 152,
+        "narrative": "",
+        "question": "右边的女人在经过一天的挖掘后收到蛤蜊时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 153,
+        "narrative": "你妈妈刚刚结束了一天的工作，正准备开始她平常的晚间例行活动。",
+        "question": "你妈妈刚下班回家，站在柜台旁接过面粉时，她的心情是怎样的？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 154,
+        "narrative": "你正在和亲密的家人一起度过时光，这些家人共同承担照顾年长亲属的责任。",
+        "question": "在这个时刻你感受到哪些情绪？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 155,
+        "narrative": "你刚搬到这个小镇，还没有任何朋友或人脉。",
+        "question": "你现在感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 156,
+        "narrative": "刚才你注意到你的同事刚吃完东西，手还没洗干净。你想用一种体贴的方式跟他们打招呼。",
+        "question": "你当时的感觉是什么？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 157,
+        "narrative": "之前，你希望有一个舒适的座位来放松一下。",
+        "question": "靠近过道的左边那位女士，这一刻你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 158,
+        "narrative": "",
+        "question": "此刻，手持火炬站在前面的人是什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 159,
+        "narrative": "今天早些时候，大家在分享玩具的问题上发生了分歧。",
+        "question": "沙坑中央的那个孩子在事件发生后立刻有什么感受？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 160,
+        "narrative": "之前，你的钱用完了，需要向附近的人求助才能继续玩。你周围的人大多是以前来过时见过的熟面孔。",
+        "question": "在再次开局前收到借来的钱时，你有什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 161,
+        "narrative": "这两个人是同事。",
+        "question": "左边那个人在和同事交谈时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 162,
+        "narrative": "大家在回忆起去年最喜欢的节日传统后，约好在这里见面。",
+        "question": "此刻，蹲在草地上的三个人心情如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 163,
+        "narrative": "电围栏是最近为了应对动物破坏庄稼的问题而安装的。你丈夫并没有被告知这次安装。",
+        "question": "当那个男人意识到围栏的目的时，他的感受是怎样的？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 164,
+        "narrative": "您参加此次预约是作为年度要求的一部分，并希望在提交后获得经济补助。",
+        "question": "你此刻站在桌前时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 165,
+        "narrative": "",
+        "question": "当父母站在学校门口，看着孩子第一次独自乘公交车到校时，他们会是什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 166,
+        "narrative": "",
+        "question": "那个穿白鞋的孩子在发生泥巴事件后感觉怎么样？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 167,
+        "narrative": "孩子由有经验的人陪同。",
+        "question": "右边的孩子在这一刻之前感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 168,
+        "narrative": "",
+        "question": "前排附近的人在这一刻有什么感受？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 169,
+        "narrative": "这些学生已经一起上了几周的课，有些人与老师之间已经建立了友好的关系。",
+        "question": "在老师与他们的桌子交流后，坐在贴有猫咪贴纸的笔记本旁的学生立刻感到怎样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 170,
+        "narrative": "你的父母觉得这是一个合适的时机，让你尝试一点点。",
+        "question": "第一次品尝香槟时，你有什么感觉？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 171,
+        "narrative": "",
+        "question": "此刻，剑尖所指之人心中作何感受？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 172,
+        "narrative": "后座上的小孩有哮喘病史，正在和他们熟识的人一起乘车。",
+        "question": "后座的孩子在这件事发生时感觉如何？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 173,
+        "narrative": "你们已经合作了几个月，融合彼此的音乐风格。",
+        "question": "在这个活动中表演时，你的感受是什么？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 174,
+        "narrative": "你决定把正确的指甲护理作为健康习惯的一部分，教给你的孩子。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 175,
+        "narrative": "",
+        "question": "当大家互相问候时，站在桌子最左边的那位男士此刻的感受是怎样的？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 176,
+        "narrative": "这位男士受邀参加这次聚会，将首次见到几位新朋友。",
+        "question": "在被站着的主持人介绍之前，坐在桌子中央的那个人感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 177,
+        "narrative": "你是被一位亲密的朋友邀请来参加这个聚会的，他希望你能认识一些新朋友。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 178,
+        "narrative": "",
+        "question": "当发现购买的商品已经过期时，离货架最近的那个人会有什么感受？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 179,
+        "narrative": "你在到达这里之前就已经知道了这片区域的规定，但你还是决定无视可能的后果继续前行。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 180,
+        "narrative": "这位女士是一位客户，你和你的同事们是第一次见她，她是这个重要项目的一部分。",
+        "question": "此刻，站在两位同事中间的那位男士是什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 181,
+        "narrative": "你原本打算在这家餐厅用餐，并且因为行动不便需要协助。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 182,
+        "narrative": "坐在办公桌前的那位是老师，他负责处理最近关于一名学生行为的担忧，并根据学校政策为即将进行的谈话做准备。",
+        "question": "在与学生讨论其行为之前，坐在办公桌前的老师心情如何？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 183,
+        "narrative": "早些时候，家长们提醒大家这些传统的重要性。",
+        "question": "此刻站在桌子中间附近的那个人感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 184,
+        "narrative": "你明知道你的前伴侣是这次庆祝活动的主角，却还是在没有邀请的情况下选择参加了这个活动。",
+        "question": "你在观察这个场景时有什么感受？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 185,
+        "narrative": "",
+        "question": "在柜台等待的人在喝下第一口之前是什么感觉？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 186,
+        "narrative": "这些人花了数月时间为重大的生活变革做准备，怀着对新机遇和安全感的期望。",
+        "question": "穿着蓝色条纹衬衫的那个人此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 187,
+        "narrative": "",
+        "question": "穿背心的人在人行道上站在其他人中间时感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 188,
+        "narrative": "工作人员已被指示更为慷慨地使用新库存。",
+        "question": "当前排桌子上坐着的那个人在工作人员按照新指示操作时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 189,
+        "narrative": "",
+        "question": "站在柜台前的人在品尝肉制品之前的那一刻感觉如何？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 190,
+        "narrative": "那天你特别饿，但又不想引人注意。",
+        "question": "在你准备继续用餐、手握图像前方的叉子时，你的感觉如何？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 191,
+        "narrative": "你们和其他人按照你们社区长期以来遵循的传统聚集在一起，分享代代相传的信仰。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 192,
+        "narrative": "",
+        "question": "前排的那群人在这一刻感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 193,
+        "narrative": "孩子之前要求多一些洗澡玩具。",
+        "question": "浴缸旁边站着的那位成年人在这一刻之后感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 194,
+        "narrative": "",
+        "question": "此刻，穿米色夹克的女人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 195,
+        "narrative": "之前，你因为在社交场合常常感到紧张，所以犹豫着没有主动接近你的同学。",
+        "question": "当老师开始和你互动时，你有什么感觉？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 196,
+        "narrative": "你一直在期待这次重要的会议，因为你知道它可能会影响接下来的项目分配。",
+        "question": "当那个拿着公文包的女人走进房间时，你站在桌旁有什么感觉？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 197,
+        "narrative": "房间里的人已经聚在一起了。",
+        "question": "坐在前排的孩子们在这一刻是如何体验情感的？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 198,
+        "narrative": "由于学区最新的指导方针，校方最近决定对所有与会人员实施更严格的健康政策。",
+        "question": "此刻，站在前台的学生在与工作人员交流时感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 199,
+        "narrative": "你来到这里，是为了寻找有关你家族过去的线索。图书管理员已经根据你之前提出的本地历史档案请求，做了一些准备。",
+        "question": "你在从桌上拿到它的那一刻有什么感觉？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 200,
+        "narrative": "这名学生经常乘坐这辆公交车回家，司机因为之前放学时他乘车已经认识他了。",
+        "question": "坐在公交车前排的司机，看着放学后的学生时，心里是什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 201,
+        "narrative": "这些人中有许多正匆忙赶赴约会，或者在一天劳累之后回家。",
+        "question": "此刻，走在斑马线最前面的人在向前迈步时感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 202,
+        "narrative": "你本来是想以一种个人化的方式引起她的注意。",
+        "question": "当你碰到收银员的手臂时，她是什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 203,
+        "narrative": "这位老人和活动中的其他几个人是多年的老相识，他们经常一起吃饭。你本打算在他即将加入大家时开个玩笑。",
+        "question": "这位站在桌子旁的老人，在这个动作发生后，立刻有什么感受？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 204,
+        "narrative": "这个年轻人到达时希望结交新朋友，但事先并不认识任何人。",
+        "question": "站在那群人旁边的男孩在那一刻之后感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 205,
+        "narrative": "此人受邀参加了这次聚会。",
+        "question": "在踏进门口之前，那个弯腰的人此刻心里是什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 206,
+        "narrative": "你记得你的父母以前在吃饭时执行过家庭规矩。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 207,
+        "narrative": "用餐者此前已与工作人员讨论过自己的饮食限制，员工们并不认识他本人。",
+        "question": "当柜台前的那个人在工作人员满足他更换餐点的请求后，他感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 208,
+        "narrative": "这些聚集在一起的人有着长期的家庭联系，在分别几个月后，为了一个特殊的时刻再次团聚。",
+        "question": "在这个事件发生后，你的第一感觉是什么？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 209,
+        "narrative": "",
+        "question": "坐在桌子中央的人第一次品尝这道菜后感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 210,
+        "narrative": "在此之前，你和你的团队一起练习了Al-'Adda舞蹈，并共同讨论了它的传统意义。",
+        "question": "在表演的时候你有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 211,
+        "narrative": "",
+        "question": "活动期间，桌子旁的志愿者们感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 212,
+        "narrative": "这里的人员是为了维持其车辆的合法授权，按照规定流程前来参加的。",
+        "question": "在这个时刻，靠左边柜台最近的那个人感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 213,
+        "narrative": "这四个人自大学时期就相识，他们把这次出游当作每年夏天的聚会。",
+        "question": "此刻左边的那位女士感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 214,
+        "narrative": "这两个人在求学期间一直保持着密切的联系。",
+        "question": "左边那个人在这次遭遇中经历了哪些情绪？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 215,
+        "narrative": "收银员和顾客因为之前的几次见面而认出了对方。",
+        "question": "客户在这一刻会经历哪些情感？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 216,
+        "narrative": "之前，你决定在朋友来访时，恶作剧地往茶里加盐。",
+        "question": "当左边那个人发现茶是咸的之后，他有什么感受？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 217,
+        "narrative": "",
+        "question": "站在台阶顶端的那个孩子此刻有什么感受？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 218,
+        "narrative": "这位女士之前花时间策划了这顿饭，并邀请了所有人。",
+        "question": "此刻站在厨房操作台旁的那位女士感觉如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 219,
+        "narrative": "直到最近，气温已经异常偏低持续了好几个月。",
+        "question": "最左边的那个人在这一刻感觉如何？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 220,
+        "narrative": "今天早些时候，你和朋友们一起庆祝了一个特殊的日子。你曾答应事后帮忙打扫。",
+        "question": "离开那个地方后你感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 221,
+        "narrative": "来访者记得你小时候喜欢吃的某些零食，想在你康复期间给你一些安慰。",
+        "question": "当来访者端来盘子的时候，你有什么感觉？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 222,
+        "narrative": "今天，有一个本来要送给你的包裹被邻居代为保管，等你回来后再取。",
+        "question": "你现在感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 223,
+        "narrative": "你和你的同学们作为学生聚集在一起，准备和老师开始一堂课。",
+        "question": "你，坐在左边前排的学生，在课程开始前的那一刻感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 224,
+        "narrative": "你回想起以前乘坐公共交通的经历，意识到自己更喜欢有个人空间。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 225,
+        "narrative": "你花了好几个小时担心自己复习得不够，于是决定带一张小纸条，以防万一忘了什么重要的内容。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 226,
+        "narrative": "这是你们俩中第一次有人准备远离家乡旅行。",
+        "question": "在期待第一次离开熟悉的地方去旅行时，你有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 227,
+        "narrative": "你和其他人是同事，最近一起完成了一项重要的任务。",
+        "question": "你在这一刻感受到哪些情绪？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 228,
+        "narrative": "在此次活动之前，学生们准备了有关公民参与的问题，以向来访的官员提问。",
+        "question": "此刻坐在课桌前的学生们感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 229,
+        "narrative": "有些同学事先提到，某些食物可能会因为饮食敏感而让他们感到不适。",
+        "question": "坐在一起的学生在选择食物时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 230,
+        "narrative": "你原本打算和一位亲密的朋友一起到达，但途中突发的情况让你们分开了。",
+        "question": "在得知你本来应该和你的朋友在一起的这一刻，你有什么感受？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 231,
+        "narrative": "几户经常参加本地聚会的家庭提前协调好日期后，一起来到这里共度时光。",
+        "question": "此刻，坐在野餐毯上的孩子们感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 232,
+        "narrative": "刚才你注意到同事之间的气氛有些紧张。你本来希望在休息时能有一次更轻松的交流。",
+        "question": "你在与同事互动时是如何体验情感的？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 233,
+        "narrative": "一些参与者在到达之前讨论了他们对未来变化的期望。",
+        "question": "此刻，站在中间举着标语牌的人们内心感受到怎样的情感？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 234,
+        "narrative": "你之前和朋友们一起看了一部精彩的电影，现在想要一起重现其中的一个场景。",
+        "question": "你在参加小组活动时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 235,
+        "narrative": "你来到这里，是为了向社区发表一场重要的演讲。",
+        "question": "在与旁边那位男士互动之后，你在演讲前的感受是怎样的？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 236,
+        "narrative": "你急着赶赴一个约会，在穿过拥挤的区域时感到有些不确定该怎么走。",
+        "question": "在站台上指引你之后，那位警察感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 237,
+        "narrative": "",
+        "question": "在柜台递咖啡的那个人此刻是什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 238,
+        "narrative": "",
+        "question": "教室里坐着的学生在观察外面发生的事情时有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 239,
+        "narrative": "",
+        "question": "此刻，表演者站在观众面前时是什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 240,
+        "narrative": "那天早些时候，你因为和同学的一次争执感到沮丧。",
+        "question": "在这一刻之后，你的感受是什么？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 241,
+        "narrative": "在会议开始前，有人建议你使用张开手掌的手势，以营造更具协作性的氛围。",
+        "question": "站在房间前面的你感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 242,
+        "narrative": "之前，你们俩都同意去探索一片你们都从未去过的城市区域。",
+        "question": "你在这个地方表达自己观点时感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 243,
+        "narrative": "",
+        "question": "你在参加聚会时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 244,
+        "narrative": "",
+        "question": "站在一起的人在这次聚会中感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 245,
+        "narrative": "",
+        "question": "当这对走在中间的情侣注意到其他人在观察他们时，他们有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 246,
+        "narrative": "你最近已经完成了规定的陪驾小时数，现在正在按照临时驾照的要求独立驾驶。",
+        "question": "你在这次交流中感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 247,
+        "narrative": "你在这位主管手下工作了好几年，最近做出了一些违反公司政策的决定。",
+        "question": "你在和主管开会时感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 248,
+        "narrative": "你和你的朋友计划了这次出游，是为了挑战自己。",
+        "question": "你现在感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 249,
+        "narrative": "",
+        "question": "当那个人注意到祈祷毯时，他的感受是怎样的？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 250,
+        "narrative": "你自日出以来一直在禁食禁水，这是宗教仪式的一部分。",
+        "question": "在收到你的购买商品之前，你有什么感觉？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 251,
+        "narrative": "这一时刻是在与亲近的家人一起反思和规划之后到来的。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 252,
+        "narrative": "这名男子是那位女性的上司，之前他已经表示会为他们两人承担费用。这次会面是他表达感谢的一种方式。",
+        "question": "当主管要求分摊账单时，左边的那位女士此刻感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 253,
+        "narrative": "",
+        "question": "在与这些人聚会后，中心的那位女性经历了哪些情感？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 254,
+        "narrative": "",
+        "question": "此刻，坐在桌子主位上为大家分菜的人心里是什么感受？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 255,
+        "narrative": "",
+        "question": "当那位穿着藏青色连衣裙的女士站在剧院主厅靠近她伴侣的地方时，她感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 256,
+        "narrative": "",
+        "question": "此刻，站在中间穿蓝色衬衫的那个人感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 257,
+        "narrative": "",
+        "question": "在宣布提前关门之前，站在吧台最近的人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 258,
+        "narrative": "",
+        "question": "那个人在离开营地后，刚走上小径时，会体验到哪些情感？",
+        "answer": "厌恶",
+        "english_ver_answer": "disgust"
+    },
+    {
+        "id": 259,
+        "narrative": "你正在为一项重要活动做准备，需要高效地整理和准备自己。",
+        "question": "在此刻接受协助时，您的感受如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 260,
+        "narrative": "",
+        "question": "这个坐在这里的人在使用马桶时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 261,
+        "narrative": "宾客们遵循着一种强调尊敬长辈的传统，要求在长辈动筷之前，大家都要等着不能先吃。",
+        "question": "站在桌子两侧的客人在那一刻有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 262,
+        "narrative": "早些时候，你明知道这违反了商店规定，却还是决定不为你的杂货付款。",
+        "question": "你离开后立刻有什么感觉？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 263,
+        "narrative": "这些人中有许多人长期以来一直有聚集进行宗教仪式的传统。",
+        "question": "前排穿红色夹克的人在这一刻经历了哪些情感？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 264,
+        "narrative": "就在几分钟前，两位有未解决矛盾的人之间的激烈争执升级了。其中一人冲动行事，完全无视周围所有人的安全。",
+        "question": "在图片中间所展示的事件中，中心人物的感受是怎样的？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 265,
+        "narrative": "之前，你们一起决定尝试创意妆容。",
+        "question": "此刻，坐在毯子上靠在一起的三个人感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 266,
+        "narrative": "",
+        "question": "那个男孩在那一刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 267,
+        "narrative": "在这场比赛之前，你们球队曾多次输给同一个对手，令人颇感失望。",
+        "question": "前排的粉丝在这一刻有什么感受？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 268,
+        "narrative": "老师要求大家在课程结束后帮忙打扫，但有些学生却选择休息并互相交流。",
+        "question": "此刻，离储物柜最近的那位学生感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 269,
+        "narrative": "在此之前，有两名学生决定在上课时让新鲜空气进来。",
+        "question": "随着这种情况的发展，中间窗户前的那位老师感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 270,
+        "narrative": "刚才大家都同意吃完午饭后一起玩。",
+        "question": "游戏进行时，那个蹲在长凳后面的孩子感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 271,
+        "narrative": "",
+        "question": "前排的长者在这一刻有什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 272,
+        "narrative": "今天是你在昆虫学领域的第一次正式任务。",
+        "question": "在这次检查过程中，你感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 273,
+        "narrative": "这个男人为这次拜访筹划了好几个星期，还特意请了假来参加。",
+        "question": "此刻，站在房间中央抱着婴儿的那个人心情如何？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 274,
+        "narrative": "之前，大家都是各自上课，各自带来了不同的经验和观点。",
+        "question": "此刻，坐在笔记本电脑最近的那个人感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 275,
+        "narrative": "",
+        "question": "在讲堂里坐着的学生在听到这个消息后，立刻有什么感受？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 276,
+        "narrative": "",
+        "question": "作为一名站在广场中央展位附近的参观者，在活动期间你会体验到哪些情感？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 277,
+        "narrative": "在这次介绍之前，你的父母考虑了各种选择，并表达了他们对你未来幸福的期望。",
+        "question": "此刻，左边坐着的那个人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 278,
+        "narrative": "",
+        "question": "在见到房主之前，站在窗边的两位来访者感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 279,
+        "narrative": "",
+        "question": "此刻，正在厨房门口引导室友的那个人感觉如何？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 280,
+        "narrative": "在新的健康指南发布后，大家被要求调整以往与同事打招呼的方式。",
+        "question": "靠近窗户、穿着米色夹克的那个人此刻感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 281,
+        "narrative": "你最近加入了一所以学术严谨和录取竞争激烈而闻名的学校。",
+        "question": "你在这个活动中感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 282,
+        "narrative": "你最近从一位朋友那里听说了这种甜点，他建议你尝试一些新东西。",
+        "question": "你在收到你选择的奖励时有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 283,
+        "narrative": "",
+        "question": "当用餐刚开始时，那个伸手去拿最近一侧餐具的人此刻的感受是怎样的？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 284,
+        "narrative": "你最近向当地人了解了一些地方菜肴，并且想尝试一些你不熟悉的食物。",
+        "question": "这个人在第一次遇到这道菜时有什么感受？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 285,
+        "narrative": "",
+        "question": "在开饭前的那一刻，坐在餐桌尽头的客人心情如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 286,
+        "narrative": "",
+        "question": "此刻，街道中央的骑自行车的人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 287,
+        "narrative": "表演者们为了这一刻，花了好几天时间排练并相互配合。",
+        "question": "在活动中，最靠近中心的舞者感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 288,
+        "narrative": "这两个人在此次会面之前并未见过面，彼此之间也没有任何过往的关系或交集。",
+        "question": "柜台前的那位女士在网上发帖关于那名员工后，心情如何？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 289,
+        "narrative": "你受邀为这个家庭记录这一刻。仪式刚刚结束，一些宾客已经开始离开。",
+        "question": "仪式结束后，站在中间过道拿着相机的人在执行任务时感觉如何？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 290,
+        "narrative": "你提前到了预约地点，希望这次检查能帮助你控制反复出现的健康问题。",
+        "question": "此刻等待时，你的情绪感受如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 291,
+        "narrative": "",
+        "question": "此刻，坐在前景中、手搭在那名男子肩膀上的女人是什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 292,
+        "narrative": "公司政策未为办公室内的塑料瓶提供回收选项，因此员工必须遵守现有的垃圾处理规定。",
+        "question": "此刻，站在垃圾桶旁边的那个人感觉如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 293,
+        "narrative": "",
+        "question": "当有人给你新衣服时，你有什么感受？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 294,
+        "narrative": "你打算把多余的食物留到以后吃。",
+        "question": "拿到这个容器后，你感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 295,
+        "narrative": "之前，大家已经被告知了泳池的着装要求。",
+        "question": "前景中的那个人在下水前感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 296,
+        "narrative": "你为今晚设定了个人预算，并且想尝试一些新东西。",
+        "question": "你在做这个决定时感觉如何？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 297,
+        "narrative": "课程即将开始，遵循着强调尊重与专注的传统。",
+        "question": "此刻，坐在靠窗最近的那位学生感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 298,
+        "narrative": "刚才，你因为赶着去一个重要的约会而迟到了，还在讨论是该等一等还是赶快穿过去。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 299,
+        "narrative": "由于住在不同的城市且日程繁忙，这个家庭已经有好几个月没有见面了。",
+        "question": "沙发右侧的那位成年人此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 300,
+        "narrative": "",
+        "question": "在参观展览时观看这些照片时，你会产生哪些情感？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 301,
+        "narrative": "你们最近刚从另一个城市搬来，你的家人还不熟悉这里的日常习惯和期望。",
+        "question": "穿着条纹连衣裙的孩子此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 302,
+        "narrative": "坐在窗边的那个人几分钟前刚刚收到了来自家人的重要消息。",
+        "question": "窗边的那位男士在通电话时感觉如何？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 303,
+        "narrative": "在此次会面之前，两人从未见过面，也没有交谈过。",
+        "question": "这段时间里，那个手持拐杖坐着的男人经历了哪些情感？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 304,
+        "narrative": "你曾犹豫是否应该联系，但事情紧急，不能等到早上。",
+        "question": "在通话开始前你有什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 305,
+        "narrative": "这些女孩最近在网上听说了电子烟后，决定一起尝试一下。",
+        "question": "中间的女孩感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 306,
+        "narrative": "你接到电话得知你丈夫病情严重，尽管已经很晚，还是赶了过来，希望能被允许进去。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 307,
+        "narrative": "在走进教室之前，你想起了家人关于尊重老师的叮嘱。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 308,
+        "narrative": "刚才，你和你的朋友们决定在一起吃完午饭后组织一个有趣的活动。",
+        "question": "站在中间、正跃在空中的那个人，在跳跃的那一刻感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 309,
+        "narrative": "你最近搬到了一个新城市，正在通过共同的朋友慢慢认识新的人。",
+        "question": "在这次初次问候之后，你感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 310,
+        "narrative": "你和其他人一起等待着过马路的信号，心里惦记着能否准时到达下一个目的地。",
+        "question": "在决定向前迈步的那一刻，走在队伍前面的人心里是怎样的感受？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 311,
+        "narrative": "你因个人原因离开了几个月，最近刚刚回到工作岗位。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 312,
+        "narrative": "你最近听了朋友的推荐，选择去了一家以正宗卡津菜闻名的热门餐厅。",
+        "question": "在品尝你的饭菜之前，你有什么感觉？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 313,
+        "narrative": "你最近决定和一群人尝试一项新活动。",
+        "question": "在参与的那一刻，你有什么感受？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 314,
+        "narrative": "这个小组最近刚一起完成了一项作业，成员之间彼此还不太熟悉。",
+        "question": "坐在前排、腿离课桌最近的那位学生，在最近一次互动后感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 315,
+        "narrative": "那位女士早早离开家，以确保不会迟到参加会议，并希望在通勤途中找到片刻的安静。",
+        "question": "此刻坐在中间座位的那位女士感觉如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 316,
+        "narrative": "你们之前曾一起讨论过希望建立更深层次的关系，并决定慢慢来。",
+        "question": "在那个时刻你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 317,
+        "narrative": "你提前担心会失败，于是决定准备一些备用答案。",
+        "question": "在考试进行时你感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 318,
+        "narrative": "",
+        "question": "在此时此刻，Mr. Namida 坐在你的小狗旁边时，你感受到哪些情绪？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 319,
+        "narrative": "你的亲密朋友们事先请你在这次庆典上代表他们发表一场重要的演讲。",
+        "question": "在你开始演讲之前，你感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 320,
+        "narrative": "在到达之前，你决定挑战自己，参加今天的综合格斗课程。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 321,
+        "narrative": "你最近搬到了一个有着不同传统的新国家。",
+        "question": "坐在柜台前的你，此刻感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 322,
+        "narrative": "司机有责任遵守城市规定，乘客的任何违规行为都可能导致司机被罚款。",
+        "question": "此刻车外的司机有什么感受？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 323,
+        "narrative": "你知道分享敏感信息可能会影响你的声誉以及他人对你的信任。",
+        "question": "在这次交流结束后立刻收到信封，你有什么感受？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 324,
+        "narrative": "家长早些时候因为工作感到压力。孩子在试图帮忙时，无意中犯了一个小错误。",
+        "question": "坐在桌子旁的那个人在这一刻之后感觉如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 325,
+        "narrative": "",
+        "question": "站在指挥台上的那个人在这一刻是什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 326,
+        "narrative": "你对这些物品背后的含义感到好奇，并向了解其来历的人寻求了解释。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 327,
+        "narrative": "你花时间调研了本地的托儿选项，并选择了这家中心。",
+        "question": "在这一刻，你跪在孩子身边时，心里有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 328,
+        "narrative": "",
+        "question": "此刻，站在最左边、靠近壁炉的那位男士感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 329,
+        "narrative": "尽管你奶奶知道天气可能会变坏，她还是提前几天计划了这次旅行。",
+        "question": "此刻奶奶感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 330,
+        "narrative": "",
+        "question": "此刻坐在咖啡桌前沿的那个人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 331,
+        "narrative": "",
+        "question": "电梯里那一刻，右边那个人的感受是怎样的？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 332,
+        "narrative": "",
+        "question": "此刻，坐在前排的那位礼拜者心里是什么感受？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 333,
+        "narrative": "你一心想着准时赶到一个重要的约会。那位旅客对这个地区不熟悉，需要指引。",
+        "question": "在那个瞬间，在繁忙的车站里与你擦肩而过后，你有什么感受？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 334,
+        "narrative": "",
+        "question": "沙发上的年轻女性在和母亲共处的这一刻感受如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 335,
+        "narrative": "你最近刚到这个小镇。",
+        "question": "你现在感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 336,
+        "narrative": "那天早些时候，你开始担心你孩子的健康，并决定遵循医生的建议。",
+        "question": "你现在感觉怎么样？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 337,
+        "narrative": "两个人已经一起上课好几个月了，在这段时间里他们成了亲密的朋友。",
+        "question": "这次交流结束后，右边的学生感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 338,
+        "narrative": "之前你向她表达了好感，但她并没有回应你的感情。",
+        "question": "你现在感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 339,
+        "narrative": "你一直希望加强与某位同事的关系，并且已经考虑了一段时间在工作之外主动联系对方。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 340,
+        "narrative": "你和你的团队已经花了好几个星期为这次公开展示做准备。",
+        "question": "在活动即将开始前，作为穿着白大褂带领队伍的人，你的感受是怎样的？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 341,
+        "narrative": "当天早些时候，活动组织者强调了人群安全的重要性，因为可能存在危险。",
+        "question": "在这一刻，站在前方、身穿安全背心的那个人在靠近人群时感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 342,
+        "narrative": "你记得自己需要为即将到来的学校活动多准备一些钱，于是今天决定提出来。",
+        "question": "你在提出请求时感觉如何？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 343,
+        "narrative": "这位女士来到这里，希望能找到一本她即将要用来完成作业的特定书籍。",
+        "question": "此刻站在过道中央的那个人感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 344,
+        "narrative": "经过一天的奔波，你登上了火车，希望能找到一个舒适的位置度过接下来的旅程。",
+        "question": "此刻，你坐在过道的地板上，感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 345,
+        "narrative": "",
+        "question": "此刻，左边那对人站在长椅旁边时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 346,
+        "narrative": "你最近了解了在公共场所使用的传统尊重礼仪。",
+        "question": "在你遵循你回忆起的礼仪之后，你的第一感觉是什么？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 347,
+        "narrative": "",
+        "question": "此刻，站在长者身边的那个人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 348,
+        "narrative": "这个小组由上过同一门电影研究课程的同学组成。",
+        "question": "此刻，桌旁的同学们可能会有什么样的感受？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 349,
+        "narrative": "警员们最近对一起贵重物品失踪事件作出了响应。",
+        "question": "此刻，那两位警官和坐在桌旁的女士有什么感受？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 350,
+        "narrative": "今天是你首次有资格参加全国选举的日子。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 351,
+        "narrative": "由于你正在康复中，未能参加正式的毕业典礼，因此学校为你单独安排了领取毕业证书的事宜。",
+        "question": "在和校长单独相处的这段时间里，你感觉怎么样？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 352,
+        "narrative": "这位男士已经提前做好了准备，打算讨论他最近的项目进展，并且知道他的表现将在这次会议上受到评估。",
+        "question": "在会议的这一刻，左边的那个人感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 353,
+        "narrative": "刚才，你注意到另一位顾客不小心掉了东西，但你没有把它还给他们。",
+        "question": "你在这一刻之后感觉怎么样？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 354,
+        "narrative": "你一直在等待，打算很快体验这个景点，但没有关于排队流程的新公告。",
+        "question": "当工作人员走过你身边时，你有什么感觉？",
+        "answer": "愤怒",
+        "english_ver_answer": "anger"
+    },
+    {
+        "id": 355,
+        "narrative": "之前，你们俩都同意一起分享菜肴，体验新的味道。",
+        "question": "你此刻与右边那个人互动时感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 356,
+        "narrative": "早些时候，你决定贡献一些你在户外发现的有意义的东西。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 357,
+        "narrative": "",
+        "question": "你的朋友在这个繁忙的路口站在你旁边时感觉怎么样？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 358,
+        "narrative": "你和你的同学关系很好。之前，你的朋友还夸奖了你最近剪的发型。",
+        "question": "在这一刻你有什么感受？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 359,
+        "narrative": "你之前提到想自己学习这项技能。你的父母今天特意抽出时间来帮你练习。",
+        "question": "此刻在接受指导时，你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 360,
+        "narrative": "在这次会面之前，一些家庭成员最近经历了一些困难，这促使其他人一到场就给予他们情感和精神上的鼓励。",
+        "question": "此刻，走进房间的那个人感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 361,
+        "narrative": "你正赶去参加一个重要的晨会，距离开始只剩几分钟了。",
+        "question": "你，这位正面对着对方的人，在这一刻之后立刻有什么感受？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 362,
+        "narrative": "你之前已经为即将到来的旅行收拾好了行李箱。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "痛苦",
+        "english_ver_answer": "pain"
+    },
+    {
+        "id": 363,
+        "narrative": "",
+        "question": "穿牛仔夹克的学生在与背着书包的学生互动时感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 364,
+        "narrative": "你已经提前准备好了你的表演，希望能在众多表演者中脱颖而出。",
+        "question": "在这个时刻，你在舞台上的感受是什么？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 365,
+        "narrative": "你从小就被教育要尊敬长辈，尤其是在正式拜访时。",
+        "question": "在向坐着的长辈问好之前，你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 366,
+        "narrative": "这一决定对未来修宪的方式产生了重大影响。",
+        "question": "穿粉色毛衣的那位女士在这个活动中感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 367,
+        "narrative": "",
+        "question": "当左边的那个人决定把身边的人拉近时，他/她的感受是怎样的？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 368,
+        "narrative": "早些时候，他们确保所有致命装备都被安全锁好。",
+        "question": "在这些限制下，他们开始巡逻时感觉如何？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 369,
+        "narrative": "之前，你已经告诉家人你因为个人原因不喝酒。有些亲戚特地为这个场合准备了特别的饮品。",
+        "question": "在你拒绝了她递过来的饮料之后，你的感受是什么？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 370,
+        "narrative": "长辈在家庭传统中拥有重要的权威。",
+        "question": "此刻坐在长者最近的人有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 371,
+        "narrative": "",
+        "question": "每位站在起跑线上的选手在比赛开始前都是什么感受？",
+        "answer": "渴望",
+        "english_ver_answer": "desire"
+    },
+    {
+        "id": 372,
+        "narrative": "",
+        "question": "此刻坐在有图案沙发上的那位女士感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 373,
+        "narrative": "",
+        "question": "画面前方正在分发食物的那个人，在这一刻会有什么样的感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 374,
+        "narrative": "家长打算在里面待一会儿，而你则留在外面。你被要求带着零食和杂志等着作伴。",
+        "question": "此刻等待时，你有什么感受？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 375,
+        "narrative": "你打算把这份礼物送给一位亲密的家人。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 376,
+        "narrative": "",
+        "question": "在比赛开始前，戴着彩虹手环的人站在储物柜旁时，心情是怎样的？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 377,
+        "narrative": "你在下一节课前突然感到不适，知道自己需要尽快寻求帮助。",
+        "question": "你在走廊上朝洗手间走去的那一刻，心里是什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 378,
+        "narrative": "早些时候，这个孩子和他的兄弟姐妹发生了争执，对接下来可能发生的事情感到不安。",
+        "question": "此刻孩子的情绪是怎样的？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 379,
+        "narrative": "当地政府最近实施了更严格的一次性塑料限制规定，且违规罚款已提高。",
+        "question": "拿着黄色包的那位顾客感觉怎么样？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 380,
+        "narrative": "",
+        "question": "此刻，那个正在和拿着笔记本的女性交谈的人感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 381,
+        "narrative": "最近由于客人激增，班次一直很忙。",
+        "question": "在食客离开这张餐桌后，服务员的感受是怎样的？",
+        "answer": "惊讶",
+        "english_ver_answer": "surprise"
+    },
+    {
+        "id": 382,
+        "narrative": "",
+        "question": "此刻，坐在台阶中央最近的人感觉如何？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 383,
+        "narrative": "您预约这次会面是为了更好地了解您的整体健康状况以及可能的风险因素。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 384,
+        "narrative": "聚会中有来自一个社交团体的熟人，而那位女士打算以令人难忘的方式亮相。",
+        "question": "那个人走进房间中央的那一刻，心里是什么感觉？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 385,
+        "narrative": "你之所以来参加这次预约，是因为最近出现了一些让你担忧的持续症状。",
+        "question": "在这一刻之后，你的感受是什么？",
+        "answer": "宽慰",
+        "english_ver_answer": "relief"
+    },
+    {
+        "id": 386,
+        "narrative": "早些时候，你决定不去帮助一位在行动上有困难的同学。",
+        "question": "站在人行道上的学生在离开大楼后的那一刻感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 387,
+        "narrative": "",
+        "question": "站在灯笼旁的那个人此刻心情如何？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 388,
+        "narrative": "你正在拜访很久没见的朋友。",
+        "question": "此刻坐在右边的那位男士感觉如何？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 389,
+        "narrative": "",
+        "question": "坐在祷告毯上的那群人在这一刻感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 390,
+        "narrative": "清晨时分，行人们不得不穿越几个陌生的街区才能到达你的目的地。",
+        "question": "此刻，蓝色汽车里的司机在与行人互动时感觉如何？",
+        "answer": "同情",
+        "english_ver_answer": "sympathy"
+    },
+    {
+        "id": 391,
+        "narrative": "年长的那位女士是你的祖母，她小时候就在家里的厨房里用过这把勺子。",
+        "question": "当这一刻发生时，你有什么感觉？",
+        "answer": "满足",
+        "english_ver_answer": "contentment"
+    },
+    {
+        "id": 392,
+        "narrative": "你在考虑尊重祖辈的传统的同时，也希望孩子的名字对你来说独特而有意义。",
+        "question": "你此刻感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 393,
+        "narrative": "你和朋友们外出，本打算在忙碌了一周后一起度过一个安静的时刻。",
+        "question": "此刻，地面上的那个人感觉如何？",
+        "answer": "尴尬",
+        "english_ver_answer": "embarrassment"
+    },
+    {
+        "id": 394,
+        "narrative": "",
+        "question": "此刻，站在中间的那个人感觉如何？",
+        "answer": "敬畏",
+        "english_ver_answer": "awe"
+    },
+    {
+        "id": 395,
+        "narrative": "",
+        "question": "站在食品柜台后面的人，在与粉丝分享视频之前，心情是怎样的？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    },
+    {
+        "id": 396,
+        "narrative": "这两位同事之前决定一起讨论一个保密话题。",
+        "question": "此刻，站在敞开门旁的人感觉如何？",
+        "answer": "恐惧",
+        "english_ver_answer": "fear"
+    },
+    {
+        "id": 397,
+        "narrative": "在这次来访之前，你和收容所的工作人员并不认识。你原本打算在权衡各种选择后，今天领养一只宠物。",
+        "question": "你现在感觉怎么样？",
+        "answer": "幸福",
+        "english_ver_answer": "happiness"
+    },
+    {
+        "id": 398,
+        "narrative": "你和站着的那个人已经一起共事好几年了，最近你在工作之外经历了一次个人的失落。",
+        "question": "当站着的同事向你打招呼时，你的第一反应是什么？",
+        "answer": "悲伤",
+        "english_ver_answer": "sadness"
+    },
+    {
+        "id": 399,
+        "narrative": "你的朋友最近告诉你，他们认为某些小事情是好运的征兆。",
+        "question": "在这次交流结束后的这一刻，你感觉如何？",
+        "answer": "愉悦",
+        "english_ver_answer": "amusement"
+    }
+]
